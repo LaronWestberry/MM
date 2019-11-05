@@ -606,3 +606,303 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.05-00.21.33:712][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/PortalBox" FILE="../../../../../Users/W211641607/Desktop/MM/Saved/Autosaves/Game/Demo/Blueprint/PortalBox_Auto1.uasset" SILENT=false AUTOSAVING=true
 [2019.11.05-00.21.33:737][171]LogSavePackage: Moving '../../../../../Users/W211641607/Desktop/MM/Saved/PortalBox_Auto11D4D625440DC4E6F1E4B77B0FBB49961.tmp' to '../../../../../Users/W211641607/Desktop/MM/Saved/Autosaves/Game/Demo/Blueprint/PortalBox_Auto1.uasset'
 [2019.11.05-00.21.33:746][171]LogFileHelpers: Auto-saving content packages took 0.081
+[2019.11.05-00.35.08:773][627]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.05-00.35.08:786][627]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.05-00.35.08:786][627]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.05-00.35.08:788][627]LogPlayLevel: [PlayLevel] Compiling PortalBox before play...
+[2019.11.05-00.35.08:943][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.11.05-00.35.08:943][627]LogPlayLevel: PlayLevel: Blueprint regeneration took 157 ms (1 blueprints)
+[2019.11.05-00.35.08:958][627]PIE: New page: PIE session: Level_00 (Nov 4, 2019, 12:35:08 PM)
+[2019.11.05-00.35.08:970][627]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_00
+[2019.11.05-00.35.08:973][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002328s)
+[2019.11.05-00.35.08:973][627]LogAIModule: Creating AISystem for world Level_00
+[2019.11.05-00.35.08:974][627]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2019.11.05-00.35.08:974][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_00.Level_00 to /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 (0.003739s)
+[2019.11.05-00.35.09:001][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.11.05-00.35.09:003][627]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.05-00.35.09:029][627]LogInit: FAudioDevice initialized.
+[2019.11.05-00.35.09:069][627]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.11.05-00.35.09:071][627]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2019.11.04-18.35.09
+[2019.11.05-00.35.09:097][627]LogWorld: Bringing up level for play took: 0.026218
+[2019.11.05-00.35.09:115][627]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.11.05-00.35.09:131][627]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.11.05-00.35.09:132][627]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.11.05-00.35.09:133][627]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Level_00 -0.592
+[2019.11.05-00.35.09:133][627]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.05-00.35.47:529][336]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.05-00.35.47:529][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.05-00.35.47:582][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.05-00.35.47:582][336]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.05-00.35.47:643][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.05-00.35.47:673][336]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2019.11.05-00.35.47:710][337]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.11.05-00.36.15:177][341]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.05-00.36.33:661][201]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.05-00.36.41:889][553]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (neighborhood_Sprite)
+[2019.11.05-00.37.19:883][505]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.05-00.37.20:001][505]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2019.11.05-00.37.20:002][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_00" FILE="../../../../../Users/W211641607/Desktop/MM/Saved/Autosaves/Game/Demo/Maps/Level_00_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.05-00.37.20:178][505]LogSavePackage: Moving '../../../../../Users/W211641607/Desktop/MM/Saved/Level_00_Auto230A73BD64D5ACAAEFA4A7C8BE6E12371.tmp' to '../../../../../Users/W211641607/Desktop/MM/Saved/Autosaves/Game/Demo/Maps/Level_00_Auto2.umap'
+[2019.11.05-00.37.20:189][505]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/Maps/Level_00' took 0.242
+[2019.11.05-00.37.20:189][505]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.242
+[2019.11.05-00.40.36:225][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-00.40.47:347][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-00.40.51:782][457]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.05-00.40.59:809][728]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.05-00.43.02:445][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-00.43.19:273][566]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (neighborhood_Sprite)
+[2019.11.05-00.43.21:191][629]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (neighborhood_Sprite)
+[2019.11.05-00.44.46:008][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-00.47.20:371][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.11.05-00.47.20:372][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_00" FILE="../../../../../Users/W211641607/Desktop/MM/Saved/Autosaves/Game/Demo/Maps/Level_00_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.05-00.47.20:543][ 96]LogSavePackage: Moving '../../../../../Users/W211641607/Desktop/MM/Saved/Level_00_Auto385CC3FF64618390676305FBB511C64AE.tmp' to '../../../../../Users/W211641607/Desktop/MM/Saved/Autosaves/Game/Demo/Maps/Level_00_Auto3.umap'
+[2019.11.05-00.47.20:554][ 96]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/Maps/Level_00' took 0.228
+[2019.11.05-00.47.20:554][ 96]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.228
+[2019.11.05-00.47.42:363][871]Cmd: TRANSACTION UNDO
+[2019.11.05-00.47.42:364][871]LogEditorTransaction: Undo Set Scale
+[2019.11.05-00.47.51:410][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-00.49.50:703][277]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (neighborhood_Sprite)
+[2019.11.05-00.49.50:747][277]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2019.11.05-00.49.55:912][445]Cmd: TRANSACTION UNDO
+[2019.11.05-00.49.55:913][445]LogEditorTransaction: Undo Scale Components
+[2019.11.05-00.49.57:591][498]Cmd: TRANSACTION UNDO
+[2019.11.05-00.49.57:591][498]LogEditorTransaction: Undo Clicking on Components
+[2019.11.05-00.49.58:094][513]Cmd: TRANSACTION UNDO
+[2019.11.05-00.49.58:094][513]LogEditorTransaction: Undo Clicking on Actors
+[2019.11.05-00.50.11:221][956]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (neighborhood_Sprite)
+[2019.11.05-00.56.58:602][957]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.05-00.57.27:785][887]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2019.11.05-00.57.27:785][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_00" FILE="../../../../../Users/W211641607/Desktop/MM/Saved/Autosaves/Game/Demo/Maps/Level_00_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.05-00.57.27:965][887]LogSavePackage: Moving '../../../../../Users/W211641607/Desktop/MM/Saved/Level_00_Auto4B35388E446D2C4816B65E1B7CBE0BF71.tmp' to '../../../../../Users/W211641607/Desktop/MM/Saved/Autosaves/Game/Demo/Maps/Level_00_Auto4.umap'
+[2019.11.05-00.57.27:975][887]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/Maps/Level_00' took 0.232
+[2019.11.05-00.57.27:975][887]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.232
+[2019.11.05-01.04.56:056][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.07.28:052][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.05-01.07.28:132][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2019.11.05-01.07.28:133][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_00" FILE="../../../../../Users/W211641607/Desktop/MM/Saved/Autosaves/Game/Demo/Maps/Level_00_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.05-01.07.28:303][ 25]LogSavePackage: Moving '../../../../../Users/W211641607/Desktop/MM/Saved/Level_00_Auto596AD1FCA426EF4632D67C6AB7D0F6BAF.tmp' to '../../../../../Users/W211641607/Desktop/MM/Saved/Autosaves/Game/Demo/Maps/Level_00_Auto5.umap'
+[2019.11.05-01.07.28:314][ 25]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/Maps/Level_00' took 0.216
+[2019.11.05-01.07.28:314][ 25]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.216
+[2019.11.05-01.12.06:116][ 14]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (neighborhood_Sprite)
+[2019.11.05-01.12.07:667][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.05-01.12.15:898][575]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.05-01.12.23:804][426]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.05-01.12.24:348][489]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.05-01.12.32:437][380]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.05-01.12.36:274][751]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.05-01.12.40:540][155]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.05-01.12.43:090][455]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.05-01.12.52:028][505]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.05-01.12.59:501][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.13.47:755][856]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.05-01.13.57:573][772]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.05-01.14.20:215][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.14.20:287][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_00" FILE="../../../../../Users/W211641607/Desktop/MM/Content/Demo/Maps/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.05-01.14.20:323][382]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.11.05-01.14.20:498][382]LogSavePackage: Moving '../../../../../Users/W211641607/Desktop/MM/Saved/Level_00D5B2894C47F89C85D8B7B289D65DD2F1.tmp' to '../../../../../Users/W211641607/Desktop/MM/Content/Demo/Maps/Level_00.umap'
+[2019.11.05-01.14.23:236][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.14.24:396][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.14.25:465][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.14.34:247][834]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (neighborhood_Sprite)
+[2019.11.05-01.14.34:317][834]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.05-01.14.54:117][443]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (neighborhood_Sprite)
+[2019.11.05-01.14.54:188][443]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.05-01.14.55:369][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2019.11.05-01.15.00:353][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.15.04:504][290]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.05-01.15.20:483][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.05-01.17.56:998][215]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (neighborhood_Sprite)
+[2019.11.05-01.18.02:693][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.22.28:806][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.24.17:249][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.24.20:369][470]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2019.11.05-01.24.20:369][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_00" FILE="../../../../../Users/W211641607/Desktop/MM/Saved/Autosaves/Game/Demo/Maps/Level_00_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.05-01.24.20:606][470]LogSavePackage: Moving '../../../../../Users/W211641607/Desktop/MM/Saved/Level_00_Auto63CE9CB6F48D1DB1944DE99B62A4078AD.tmp' to '../../../../../Users/W211641607/Desktop/MM/Saved/Autosaves/Game/Demo/Maps/Level_00_Auto6.umap'
+[2019.11.05-01.24.20:616][470]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/Maps/Level_00' took 0.286
+[2019.11.05-01.24.20:617][470]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.286
+[2019.11.05-01.30.41:896][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.31.07:023][732]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.05-01.32.01:543][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.33.30:145][424]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.33.33:288][797]Cmd: TRANSACTION UNDO
+[2019.11.05-01.33.33:288][797]LogEditorTransaction: Undo Reset Scale
+[2019.11.05-01.33.34:078][880]Cmd: TRANSACTION UNDO
+[2019.11.05-01.33.34:078][880]LogEditorTransaction: Undo Set Scale
+[2019.11.05-01.33.34:855][942]Cmd: TRANSACTION UNDO
+[2019.11.05-01.33.34:855][942]LogEditorTransaction: Undo Set Scale
+[2019.11.05-01.34.10:265][149]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (neighborhood_Sprite)
+[2019.11.05-01.34.12:216][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.34.24:675][717]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (neighborhood_Sprite)
+[2019.11.05-01.34.34:493][653]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (neighborhood_Sprite)
+[2019.11.05-01.34.34:537][653]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.05-01.34.37:541][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2019.11.05-01.35.16:655][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.35.36:115][461]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (neighborhood_Sprite)
+[2019.11.05-01.35.36:186][461]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.05-01.35.37:887][659]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (neighborhood_Sprite)
+[2019.11.05-01.36.06:387][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.37.29:962][659]Cmd: TRANSACTION UNDO
+[2019.11.05-01.37.29:962][659]LogEditorTransaction: Undo Move Actors
+[2019.11.05-01.37.29:965][659]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2019.11.05-01.37.29:965][659]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2019.11.05-01.37.29:965][659]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.05-01.37.30:420][702]Cmd: TRANSACTION UNDO
+[2019.11.05-01.37.30:420][702]LogEditorTransaction: Undo Modifier [Edit]
+[2019.11.05-01.37.30:952][759]Cmd: TRANSACTION UNDO
+[2019.11.05-01.37.30:952][759]LogEditorTransaction: Undo Move Actors
+[2019.11.05-01.37.30:956][759]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2019.11.05-01.37.30:956][759]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2019.11.05-01.37.30:956][759]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.05-01.39.24:736][586]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (neighborhood_Sprite)
+[2019.11.05-01.40.00:367][260]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.05-01.40.00:426][260]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.11.05-01.40.00:427][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_00" FILE="../../../../../Users/W211641607/Desktop/MM/Saved/Autosaves/Game/Demo/Maps/Level_00_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.05-01.40.00:661][260]LogSavePackage: Moving '../../../../../Users/W211641607/Desktop/MM/Saved/Level_00_Auto739EF3E7E4D190C9550927FA1F658DD96.tmp' to '../../../../../Users/W211641607/Desktop/MM/Saved/Autosaves/Game/Demo/Maps/Level_00_Auto7.umap'
+[2019.11.05-01.40.00:671][260]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/Maps/Level_00' took 0.287
+[2019.11.05-01.40.00:671][260]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.287
+[2019.11.05-01.40.55:845][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.41.51:058][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.43.16:282][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.43.17:200][144]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.05-01.43.29:004][ 60]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.29:004][ 60]LogEditorTransaction: Undo Clicking on Actors
+[2019.11.05-01.43.29:171][ 72]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.29:171][ 72]LogEditorTransaction: Undo Move Actors
+[2019.11.05-01.43.29:333][ 81]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.29:333][ 81]LogEditorTransaction: Undo Modifier [Edit]
+[2019.11.05-01.43.29:487][ 93]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.29:487][ 93]LogEditorTransaction: Undo Move Actors
+[2019.11.05-01.43.29:620][ 99]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.29:620][ 99]LogEditorTransaction: Undo Modifier [Edit]
+[2019.11.05-01.43.29:777][114]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.29:777][114]LogEditorTransaction: Undo Move Actors
+[2019.11.05-01.43.29:907][117]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.29:907][117]LogEditorTransaction: Undo Move Actors
+[2019.11.05-01.43.30:042][123]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.30:042][123]LogEditorTransaction: Undo Move Actors
+[2019.11.05-01.43.30:196][134]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.30:196][134]LogEditorTransaction: Undo Modifier [Edit]
+[2019.11.05-01.43.30:334][146]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.30:334][146]LogEditorTransaction: Undo Modifier [Edit]
+[2019.11.05-01.43.30:502][163]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.30:502][163]LogEditorTransaction: Undo Select Brush Surface
+[2019.11.05-01.43.30:646][175]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.30:646][175]LogEditorTransaction: Undo Move Actors
+[2019.11.05-01.43.30:797][179]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.30:797][179]LogEditorTransaction: Undo Modifier [Edit]
+[2019.11.05-01.43.30:973][196]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.30:973][196]LogEditorTransaction: Undo Move Actors
+[2019.11.05-01.43.31:365][232]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.31:365][232]LogEditorTransaction: Undo Modifier [Edit]
+[2019.11.05-01.43.31:608][257]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.31:608][257]LogEditorTransaction: Undo Move Actors
+[2019.11.05-01.43.31:776][268]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.31:776][268]LogEditorTransaction: Undo Modifier [Edit]
+[2019.11.05-01.43.31:948][284]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.31:948][284]LogEditorTransaction: Undo Select Brush Surface
+[2019.11.05-01.43.32:127][294]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.32:127][294]LogEditorTransaction: Undo Clicking on Actors
+[2019.11.05-01.43.32:321][313]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.32:321][313]LogEditorTransaction: Undo Move Actors
+[2019.11.05-01.43.32:748][356]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.32:748][356]LogEditorTransaction: Undo Move Actors
+[2019.11.05-01.43.33:028][384]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.33:028][384]LogEditorTransaction: Undo Move Actors
+[2019.11.05-01.43.33:426][421]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.33:426][421]LogEditorTransaction: Undo Move Actors
+[2019.11.05-01.43.33:760][450]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.33:760][450]LogEditorTransaction: Undo Modifier [Edit]
+[2019.11.05-01.43.33:930][466]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.33:930][466]LogEditorTransaction: Undo Modifier [Edit]
+[2019.11.05-01.43.34:085][482]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.34:085][482]LogEditorTransaction: Undo Modifier [Edit]
+[2019.11.05-01.43.34:243][498]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.34:243][498]LogEditorTransaction: Undo Move Actors
+[2019.11.05-01.43.34:578][531]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.34:578][531]LogEditorTransaction: Undo Modifier [Edit]
+[2019.11.05-01.43.34:775][550]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.34:775][550]LogEditorTransaction: Undo Move Actors
+[2019.11.05-01.43.35:236][598]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.35:236][598]LogEditorTransaction: Undo Move Actors
+[2019.11.05-01.43.35:507][626]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.35:507][626]LogEditorTransaction: Undo Modifier [Edit]
+[2019.11.05-01.43.35:916][671]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.35:916][671]LogEditorTransaction: Undo Move Actors
+[2019.11.05-01.43.36:119][688]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.36:119][688]LogEditorTransaction: Undo Move Actors
+[2019.11.05-01.43.36:843][769]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.36:844][769]LogEditorTransaction: Undo Modifier [Edit]
+[2019.11.05-01.43.37:362][827]Cmd: TRANSACTION UNDO
+[2019.11.05-01.43.37:362][827]LogEditorTransaction: Undo Move Actors
+[2019.11.05-01.43.43:798][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.43.49:087][ 33]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.05-01.44.14:716][215]Cmd: TRANSACTION UNDO
+[2019.11.05-01.44.14:716][215]LogEditorTransaction: Undo Select Brush Surface
+[2019.11.05-01.44.46:784][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.46.18:253][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.46.52:179][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.49.52:393][975]Cmd: TRANSACTION UNDO
+[2019.11.05-01.49.52:393][975]LogEditorTransaction: Undo Scale Actors
+[2019.11.05-01.49.53:470][ 93]Cmd: TRANSACTION UNDO
+[2019.11.05-01.49.53:470][ 93]LogEditorTransaction: Undo Modifier [Edit]
+[2019.11.05-01.49.54:851][254]Cmd: TRANSACTION UNDO
+[2019.11.05-01.49.54:851][254]LogEditorTransaction: Undo Modifier [Edit]
+[2019.11.05-01.49.55:402][317]Cmd: TRANSACTION UNDO
+[2019.11.05-01.49.55:402][317]LogEditorTransaction: Undo Modifier [Edit]
+[2019.11.05-01.49.55:890][372]Cmd: TRANSACTION UNDO
+[2019.11.05-01.49.55:890][372]LogEditorTransaction: Undo Modifier [Edit]
+[2019.11.05-01.49.56:522][445]Cmd: TRANSACTION UNDO
+[2019.11.05-01.49.56:522][445]LogEditorTransaction: Undo Modifier [Edit]
+[2019.11.05-01.49.56:913][489]Cmd: TRANSACTION UNDO
+[2019.11.05-01.49.56:913][489]LogEditorTransaction: Undo Modifier [Edit]
+[2019.11.05-01.49.57:380][542]Cmd: TRANSACTION UNDO
+[2019.11.05-01.49.57:380][542]LogEditorTransaction: Undo Scale Actors
+[2019.11.05-01.49.57:657][568]Cmd: TRANSACTION UNDO
+[2019.11.05-01.49.57:657][568]LogEditorTransaction: Undo Scale Actors
+[2019.11.05-01.49.58:011][603]Cmd: TRANSACTION UNDO
+[2019.11.05-01.49.58:011][603]LogEditorTransaction: Undo Scale Actors
+[2019.11.05-01.49.58:413][645]Cmd: TRANSACTION UNDO
+[2019.11.05-01.49.58:414][645]LogEditorTransaction: Undo Scale Actors
+[2019.11.05-01.49.58:622][663]Cmd: TRANSACTION UNDO
+[2019.11.05-01.49.58:622][663]LogEditorTransaction: Undo Move Actors
+[2019.11.05-01.49.58:995][697]Cmd: TRANSACTION UNDO
+[2019.11.05-01.49.58:995][697]LogEditorTransaction: Undo Modifier [Edit]
+[2019.11.05-01.49.59:621][768]Cmd: TRANSACTION UNDO
+[2019.11.05-01.49.59:621][768]LogEditorTransaction: Undo Modifier [Edit]
+[2019.11.05-01.50.00:521][873]Cmd: TRANSACTION UNDO
+[2019.11.05-01.50.00:521][873]LogEditorTransaction: Undo Modifier [Edit]
+[2019.11.05-01.50.00:971][924]Cmd: TRANSACTION UNDO
+[2019.11.05-01.50.00:971][924]LogEditorTransaction: Undo Modifier [Edit]
+[2019.11.05-01.50.51:275][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.50.52:965][126]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (neighborhood_Sprite)
+[2019.11.05-01.52.03:071][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.52.10:029][315]Cmd: TRANSACTION UNDO
+[2019.11.05-01.52.10:029][315]LogEditorTransaction: Undo Set Location
+[2019.11.05-01.52.12:692][628]Cmd: TRANSACTION REDO
+[2019.11.05-01.52.12:692][628]LogEditorTransaction: Redo Set Location
+[2019.11.05-01.52.29:923][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.53.55:661][669]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2019.11.05-01.53.55:661][669]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.05-01.54.06:745][682]LogGeometryMode: Warning: Unable to find BoxBrush3 Brush(s) in new BSP
+[2019.11.05-01.54.06:745][682]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.05-01.54.48:447][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.54.50:210][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2019.11.05-01.55.41:601][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.56.29:059][607]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2019.11.05-01.56.29:059][607]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.05-01.57.05:189][872]LogGeometryMode: Warning: Unable to find BoxBrush3 Brush(s) in new BSP
+[2019.11.05-01.57.05:189][872]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.05-01.57.42:304][116]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2019.11.05-01.57.42:304][116]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.05-01.57.55:532][595]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (neighborhood_Sprite)
+[2019.11.05-01.58.08:978][571]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.58.52:253][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.59.41:636][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.59.46:713][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.59.49:288][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-02.01.08:525][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-02.01.11:807][888]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2019.11.05-02.01.11:808][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_00" FILE="../../../../../Users/W211641607/Desktop/MM/Saved/Autosaves/Game/Demo/Maps/Level_00_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.05-02.01.12:142][888]LogSavePackage: Moving '../../../../../Users/W211641607/Desktop/MM/Saved/Level_00_Auto845AFFE394533ABD387AE78B52BCC5822.tmp' to '../../../../../Users/W211641607/Desktop/MM/Saved/Autosaves/Game/Demo/Maps/Level_00_Auto8.umap'
+[2019.11.05-02.01.12:153][888]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/Maps/Level_00' took 0.384
+[2019.11.05-02.01.12:153][888]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.384
