@@ -1075,3 +1075,750 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.12-02.06.40:998][606]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
 [2019.11.12-02.06.41:035][607]LogPlayLevel: Display: Destroying online subsystem :Context_15
 [2019.11.12-02.06.51:031][593]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-02.07.52:298][669]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.11.12-02.08.10:027][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.11.12-02.08.12:099][888]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.12-02.08.12:112][888]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.08.12:112][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-02.08.12:112][888]PIE: New page: PIE session: Level_00 (Nov 11, 2019, 2:08:12 PM)
+[2019.11.12-02.08.12:112][888]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_00
+[2019.11.12-02.08.12:118][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005936s)
+[2019.11.12-02.08.12:118][888]LogAIModule: Creating AISystem for world Level_00
+[2019.11.12-02.08.12:119][888]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2019.11.12-02.08.12:119][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_00.Level_00 to /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 (0.006734s)
+[2019.11.12-02.08.12:157][888]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.11.12-02.08.12:159][888]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.12-02.08.12:186][888]LogInit: FAudioDevice initialized.
+[2019.11.12-02.08.12:211][888]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.11.12-02.08.12:212][888]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2019.11.11-20.08.12
+[2019.11.12-02.08.12:212][888]LogWorld: Bringing up level for play took: 0.000828
+[2019.11.12-02.08.12:225][888]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Level_00 -0.505
+[2019.11.12-02.08.12:225][888]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.08.22:305][315]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.08.22:305][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-02.08.22:360][315]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-02.08.22:360][315]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.08.22:396][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-02.08.22:401][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.11.12-02.08.22:436][316]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.11.12-02.08.23:685][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-02.08.37:290][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.11.12-02.08.38:366][200]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.12-02.08.38:378][200]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.08.38:378][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-02.08.38:378][200]PIE: New page: PIE session: Level_00 (Nov 11, 2019, 2:08:38 PM)
+[2019.11.12-02.08.38:378][200]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_00
+[2019.11.12-02.08.38:383][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004814s)
+[2019.11.12-02.08.38:384][200]LogAIModule: Creating AISystem for world Level_00
+[2019.11.12-02.08.38:384][200]LogPlayLevel: PIE: World Init took: (0.000500s)
+[2019.11.12-02.08.38:384][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_00.Level_00 to /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 (0.005439s)
+[2019.11.12-02.08.38:415][200]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2019.11.12-02.08.38:417][200]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.12-02.08.38:441][200]LogInit: FAudioDevice initialized.
+[2019.11.12-02.08.38:472][200]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.11.12-02.08.38:473][200]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2019.11.11-20.08.38
+[2019.11.12-02.08.38:474][200]LogWorld: Bringing up level for play took: 0.000734
+[2019.11.12-02.08.38:486][200]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Level_00 -0.244
+[2019.11.12-02.08.38:486][200]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.08.54:291][873]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.08.54:291][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-02.08.54:345][873]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-02.08.54:345][873]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.08.54:384][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-02.08.54:388][873]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.11.12-02.08.54:423][874]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.11.12-02.08.55:511][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-02.09.03:706][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-02.09.18:551][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-02.09.18:664][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/BP_Test" FILE="../../../../../Users/W211641607/Desktop/MM/Content/Demo/Blueprint/BP_Test.uasset" SILENT=true
+[2019.11.12-02.09.18:695][ 30]LogSavePackage: Moving '../../../../../Users/W211641607/Desktop/MM/Saved/BP_TestA75841E342AB7DD43E7B39BD8679FC7A.tmp' to '../../../../../Users/W211641607/Desktop/MM/Content/Demo/Blueprint/BP_Test.uasset'
+[2019.11.12-02.12.01:470][235]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (neighborhood_Sprite)
+[2019.11.12-02.12.06:716][748]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (neighborhood_Sprite)
+[2019.11.12-02.12.06:760][748]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-02.12.07:747][866]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.12-02.12.07:758][866]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.12.07:758][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-02.12.07:759][866]PIE: New page: PIE session: Level_00 (Nov 11, 2019, 2:12:07 PM)
+[2019.11.12-02.12.07:759][866]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_00
+[2019.11.12-02.12.07:767][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008027s)
+[2019.11.12-02.12.07:767][866]LogAIModule: Creating AISystem for world Level_00
+[2019.11.12-02.12.07:768][866]LogPlayLevel: PIE: World Init took: (0.000721s)
+[2019.11.12-02.12.07:768][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_00.Level_00 to /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 (0.008923s)
+[2019.11.12-02.12.07:880][866]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2019.11.12-02.12.07:883][866]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.12-02.12.07:909][866]LogInit: FAudioDevice initialized.
+[2019.11.12-02.12.07:943][866]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.11.12-02.12.07:944][866]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2019.11.11-20.12.07
+[2019.11.12-02.12.07:944][866]LogWorld: Bringing up level for play took: 0.000761
+[2019.11.12-02.12.07:958][866]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Level_00 -0.777
+[2019.11.12-02.12.07:958][866]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.12.37:670][883]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.12.37:671][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-02.12.37:726][883]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-02.12.37:727][883]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.12.37:764][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-02.12.37:770][883]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2019.11.12-02.12.37:782][884]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.11.12-02.13.00:380][111]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-02.13.02:021][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.11.12-02.13.02:026][305]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-02.13.02:030][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_00" FILE="../../../../../Users/W211641607/Desktop/MM/Content/Demo/Maps/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.12-02.13.02:059][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.11.12-02.13.02:249][305]LogSavePackage: Moving '../../../../../Users/W211641607/Desktop/MM/Saved/Level_0043902F204E5F0AF6FA9513B2FB2F2CAE.tmp' to '../../../../../Users/W211641607/Desktop/MM/Content/Demo/Maps/Level_00.umap'
+[2019.11.12-02.13.02:279][305]LogFileHelpers: Saving map 'Level_00' took 0.250
+[2019.11.12-02.14.29:950][605]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-02.14.37:434][496]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.11.12-02.14.49:251][496]LogBlueprintActionDatabase: Requesting refresh due to module change: UATHelper (loaded)
+[2019.11.12-02.14.49:638][496]UATHelper: Packaging (Windows (32-bit)): Running AutomationTool...
+[2019.11.12-02.14.49:638][496]UATHelper: Packaging (Windows (32-bit)): Parsing command line: -ScriptsForProject=C:/Users/W211641607/Desktop/MM/MoonMan_Prototype.uproject BuildCookRun -nocompile -nocompileeditor -installed -nop4 -project=C:/Users/W211641607/Desktop/MM/MoonMan_Prototype.uproject -cook -stage -archive -archivedirectory=E:/ -package -clientconfig=Development -ue4exe=C:\UE_4.22\UE_4.22\Engine\Binaries\Win64\UE4Editor-Cmd.exe -pak -prereqs -nodebuginfo -targetplatform=Win32 -utf8output
+[2019.11.12-02.14.50:634][616]UATHelper: Packaging (Windows (32-bit)): Setting up ProjectParams for C:\Users\W211641607\Desktop\MM\MoonMan_Prototype.uproject
+[2019.11.12-02.14.51:983][776]UATHelper: Packaging (Windows (32-bit)): ********** COOK COMMAND STARTED **********
+[2019.11.12-02.14.51:989][777]UATHelper: Packaging (Windows (32-bit)): Running UE4Editor Cook for project C:\Users\W211641607\Desktop\MM\MoonMan_Prototype.uproject
+[2019.11.12-02.14.51:989][777]UATHelper: Packaging (Windows (32-bit)): Commandlet log file is C:\UE_4.22\UE_4.22\Engine\Programs\AutomationTool\Saved\Cook-2019.11.11-20.14.51.txt
+[2019.11.12-02.14.52:016][780]UATHelper: Packaging (Windows (32-bit)): Running: C:\UE_4.22\UE_4.22\Engine\Binaries\Win64\UE4Editor-Cmd.exe C:\Users\W211641607\Desktop\MM\MoonMan_Prototype.uproject -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -unversioned -abslog=C:\UE_4.22\UE_4.22\Engine\Programs\AutomationTool\Saved\Cook-2019.11.11-20.14.51.txt -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2019.11.12-02.14.52:430][830]UATHelper: Packaging (Windows (32-bit)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2019.11.12-02.14.52:430][830]UATHelper: Packaging (Windows (32-bit)):   LogInit: Display: Running engine for game: MoonMan_Prototype
+[2019.11.12-02.14.56:229][277]UATHelper: Packaging (Windows (32-bit)):   LogHAL: Display: Platform has ~ 16 GB [17119154176 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.12-02.14.57:610][443]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.12-02.14.57:622][444]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.12-02.14.57:645][447]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.12-02.14.57:669][450]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.12-02.14.57:685][452]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.12-02.14.57:704][454]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.12-02.14.57:719][456]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.12-02.14.57:736][458]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.12-02.14.57:746][459]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.12-02.14.57:854][472]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.12-02.14.57:854][472]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.12-02.14.57:855][472]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.12-02.14.57:855][472]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.12-02.14.57:855][472]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.12-02.14.57:855][472]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.12-02.14.57:855][472]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.12-02.14.57:855][472]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.12-02.14.57:855][472]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.12-02.14.57:855][472]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.12-02.14.57:855][472]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.12-02.14.57:855][472]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.12-02.14.57:855][472]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.12-02.14.57:855][472]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.12-02.14.57:855][472]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.12-02.14.57:855][472]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.12-02.14.57:855][472]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.12-02.14.57:855][472]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.12-02.14.57:855][472]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.12-02.14.57:930][481]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.12-02.14.57:930][481]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.12-02.14.57:951][484]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.12-02.14.57:951][484]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.12-02.14.57:969][486]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.12-02.14.57:984][488]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.12-02.14.58:010][491]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.12-02.14.58:026][493]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.12-02.14.58:084][500]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.12-02.14.58:084][500]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.12-02.14.58:084][500]UATHelper: Packaging (Windows (32-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2019.11.12-02.14.58:093][501]UATHelper: Packaging (Windows (32-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.12-02.14.58:200][514]UATHelper: Packaging (Windows (32-bit)):   LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2019.11.12-02.14.58:768][582]UATHelper: Packaging (Windows (32-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.12-02.14.58:912][599]UATHelper: Packaging (Windows (32-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/W211641607/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.11.12-02.14.58:930][601]UATHelper: Packaging (Windows (32-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.12-02.15.01:455][904]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.12-02.15.01:455][904]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Mobile HDR setting 1
+[2019.11.12-02.15.01:455][904]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Creating asset registry
+[2019.11.12-02.15.02:029][973]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Discovering localized assets
+[2019.11.12-02.15.02:054][976]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked content cleared for platform WindowsNoEditor
+[2019.11.12-02.15.02:062][977]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2019.11.12-02.15.02:145][987]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Sandbox cleanup took 0.084 seconds for platforms WindowsNoEditor  iterative false
+[2019.11.12-02.15.04:011][211]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 0 Packages Remain 241 Total 241
+[2019.11.12-02.15.05:103][325]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 50 Packages Remain 240 Total 290
+[2019.11.12-02.15.05:752][389]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 100 Packages Remain 239 Total 339
+[2019.11.12-02.15.06:676][491]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 150 Packages Remain 240 Total 390
+[2019.11.12-02.15.06:959][522]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 169 Packages Remain 239 Total 408
+[2019.11.12-02.15.06:999][526]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 171 Packages Remain 238 Total 409
+[2019.11.12-02.15.07:042][531]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 172 Packages Remain 237 Total 409
+[2019.11.12-02.15.07:073][535]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 173 Packages Remain 236 Total 409
+[2019.11.12-02.15.07:116][540]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 174 Packages Remain 235 Total 409
+[2019.11.12-02.15.07:167][546]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 176 Packages Remain 234 Total 410
+[2019.11.12-02.15.07:192][549]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 233 Total 410
+[2019.11.12-02.15.07:192][549]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 232 Total 409
+[2019.11.12-02.15.07:192][549]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 231 Total 408
+[2019.11.12-02.15.07:192][549]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 230 Total 407
+[2019.11.12-02.15.07:192][549]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 229 Total 406
+[2019.11.12-02.15.07:192][549]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 228 Total 405
+[2019.11.12-02.15.07:192][549]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 227 Total 404
+[2019.11.12-02.15.07:193][549]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 226 Total 403
+[2019.11.12-02.15.07:193][549]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 225 Total 402
+[2019.11.12-02.15.07:193][549]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 224 Total 401
+[2019.11.12-02.15.07:193][549]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 223 Total 400
+[2019.11.12-02.15.07:193][549]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 222 Total 399
+[2019.11.12-02.15.07:193][549]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 221 Total 398
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 220 Total 397
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 219 Total 396
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 218 Total 395
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 217 Total 394
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 216 Total 393
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 215 Total 392
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 214 Total 391
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 213 Total 390
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 212 Total 389
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 211 Total 388
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 210 Total 387
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 209 Total 386
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 208 Total 385
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 207 Total 384
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 206 Total 383
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 205 Total 382
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 204 Total 381
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 203 Total 380
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 202 Total 379
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 201 Total 378
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 200 Total 377
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 199 Total 376
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 198 Total 375
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 197 Total 374
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 196 Total 373
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 195 Total 372
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 194 Total 371
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 193 Total 370
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 192 Total 369
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 191 Total 368
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 190 Total 367
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 189 Total 366
+[2019.11.12-02.15.07:201][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 188 Total 365
+[2019.11.12-02.15.07:202][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 187 Total 364
+[2019.11.12-02.15.07:202][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 186 Total 363
+[2019.11.12-02.15.07:202][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 185 Total 362
+[2019.11.12-02.15.07:202][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 184 Total 361
+[2019.11.12-02.15.07:202][550]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 183 Total 360
+[2019.11.12-02.15.07:219][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 182 Total 359
+[2019.11.12-02.15.07:219][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 181 Total 358
+[2019.11.12-02.15.07:219][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 180 Total 357
+[2019.11.12-02.15.07:219][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 179 Total 356
+[2019.11.12-02.15.07:219][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 178 Total 355
+[2019.11.12-02.15.07:219][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 177 Total 354
+[2019.11.12-02.15.07:220][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 176 Total 353
+[2019.11.12-02.15.07:220][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 175 Total 352
+[2019.11.12-02.15.07:220][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 174 Total 351
+[2019.11.12-02.15.07:220][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 173 Total 350
+[2019.11.12-02.15.07:220][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 172 Total 349
+[2019.11.12-02.15.07:220][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 171 Total 348
+[2019.11.12-02.15.07:220][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 170 Total 347
+[2019.11.12-02.15.07:220][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 169 Total 346
+[2019.11.12-02.15.07:220][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 168 Total 345
+[2019.11.12-02.15.07:220][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 167 Total 344
+[2019.11.12-02.15.07:220][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 166 Total 343
+[2019.11.12-02.15.07:220][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 165 Total 342
+[2019.11.12-02.15.07:220][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 164 Total 341
+[2019.11.12-02.15.07:220][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 163 Total 340
+[2019.11.12-02.15.07:220][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 162 Total 339
+[2019.11.12-02.15.07:220][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 161 Total 338
+[2019.11.12-02.15.07:220][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 160 Total 337
+[2019.11.12-02.15.07:220][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 159 Total 336
+[2019.11.12-02.15.07:220][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 158 Total 335
+[2019.11.12-02.15.07:220][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 157 Total 334
+[2019.11.12-02.15.07:220][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 156 Total 333
+[2019.11.12-02.15.07:220][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 155 Total 332
+[2019.11.12-02.15.07:220][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 154 Total 331
+[2019.11.12-02.15.07:220][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 153 Total 330
+[2019.11.12-02.15.07:220][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 152 Total 329
+[2019.11.12-02.15.07:220][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 151 Total 328
+[2019.11.12-02.15.07:220][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 150 Total 327
+[2019.11.12-02.15.07:220][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 149 Total 326
+[2019.11.12-02.15.07:220][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 148 Total 325
+[2019.11.12-02.15.07:220][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 147 Total 324
+[2019.11.12-02.15.07:220][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 146 Total 323
+[2019.11.12-02.15.07:221][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 145 Total 322
+[2019.11.12-02.15.07:221][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 144 Total 321
+[2019.11.12-02.15.07:221][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 143 Total 320
+[2019.11.12-02.15.07:221][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 142 Total 319
+[2019.11.12-02.15.07:221][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 141 Total 318
+[2019.11.12-02.15.07:221][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 140 Total 317
+[2019.11.12-02.15.07:221][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 139 Total 316
+[2019.11.12-02.15.07:221][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 138 Total 315
+[2019.11.12-02.15.07:221][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 137 Total 314
+[2019.11.12-02.15.07:221][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 136 Total 313
+[2019.11.12-02.15.07:221][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 135 Total 312
+[2019.11.12-02.15.07:221][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 134 Total 311
+[2019.11.12-02.15.07:221][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 133 Total 310
+[2019.11.12-02.15.07:221][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 132 Total 309
+[2019.11.12-02.15.07:221][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 131 Total 308
+[2019.11.12-02.15.07:222][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 130 Total 307
+[2019.11.12-02.15.07:222][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 129 Total 306
+[2019.11.12-02.15.07:222][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 128 Total 305
+[2019.11.12-02.15.07:222][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 127 Total 304
+[2019.11.12-02.15.07:222][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 126 Total 303
+[2019.11.12-02.15.07:222][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 125 Total 302
+[2019.11.12-02.15.07:222][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 124 Total 301
+[2019.11.12-02.15.07:222][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 123 Total 300
+[2019.11.12-02.15.07:222][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 122 Total 299
+[2019.11.12-02.15.07:222][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 121 Total 298
+[2019.11.12-02.15.07:222][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 120 Total 297
+[2019.11.12-02.15.07:222][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 119 Total 296
+[2019.11.12-02.15.07:222][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 118 Total 295
+[2019.11.12-02.15.07:222][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 117 Total 294
+[2019.11.12-02.15.07:222][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 116 Total 293
+[2019.11.12-02.15.07:222][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 115 Total 292
+[2019.11.12-02.15.07:222][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 114 Total 291
+[2019.11.12-02.15.07:222][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 113 Total 290
+[2019.11.12-02.15.07:222][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 112 Total 289
+[2019.11.12-02.15.07:222][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 111 Total 288
+[2019.11.12-02.15.07:222][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 110 Total 287
+[2019.11.12-02.15.07:222][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 109 Total 286
+[2019.11.12-02.15.07:223][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 108 Total 285
+[2019.11.12-02.15.07:223][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 107 Total 284
+[2019.11.12-02.15.07:223][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 106 Total 283
+[2019.11.12-02.15.07:223][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 105 Total 282
+[2019.11.12-02.15.07:223][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 104 Total 281
+[2019.11.12-02.15.07:223][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 103 Total 280
+[2019.11.12-02.15.07:223][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 102 Total 279
+[2019.11.12-02.15.07:223][551]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 101 Total 278
+[2019.11.12-02.15.07:229][552]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 100 Total 277
+[2019.11.12-02.15.07:230][552]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 99 Total 276
+[2019.11.12-02.15.07:230][552]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 98 Total 275
+[2019.11.12-02.15.07:230][552]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 97 Total 274
+[2019.11.12-02.15.07:230][552]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 96 Total 273
+[2019.11.12-02.15.07:230][552]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 95 Total 272
+[2019.11.12-02.15.07:230][552]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 94 Total 271
+[2019.11.12-02.15.07:230][552]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 93 Total 270
+[2019.11.12-02.15.07:230][552]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 92 Total 269
+[2019.11.12-02.15.07:230][552]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 91 Total 268
+[2019.11.12-02.15.07:230][552]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 90 Total 267
+[2019.11.12-02.15.07:230][552]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 89 Total 266
+[2019.11.12-02.15.07:230][552]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 177 Packages Remain 88 Total 265
+[2019.11.12-02.15.07:584][592]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 189 Packages Remain 87 Total 276
+[2019.11.12-02.15.07:590][593]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 191 Packages Remain 86 Total 277
+[2019.11.12-02.15.07:742][610]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 196 Packages Remain 85 Total 281
+[2019.11.12-02.15.07:789][614]UATHelper: Packaging (Windows (32-bit)):   LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData'
+[2019.11.12-02.15.07:789][614]UATHelper: Packaging (Windows (32-bit)):   LogUObjectGlobals: Warning: Failed to load '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData': Can't find file '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData'
+[2019.11.12-02.15.07:789][614]UATHelper: Packaging (Windows (32-bit)):   LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData' while loading NULL.
+[2019.11.12-02.15.07:789][614]UATHelper: Packaging (Windows (32-bit)):   LogUObjectGlobals: Warning: Failed to load '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData': Can't find file for asset '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData' while loading NULL.
+[2019.11.12-02.15.07:789][614]UATHelper: Packaging (Windows (32-bit)):   LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData'
+[2019.11.12-02.15.07:789][614]UATHelper: Packaging (Windows (32-bit)):   LogUObjectGlobals: Warning: Failed to load '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData': Can't find file '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData'
+[2019.11.12-02.15.07:789][614]UATHelper: Packaging (Windows (32-bit)):   LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData' while loading NULL.
+[2019.11.12-02.15.07:789][614]UATHelper: Packaging (Windows (32-bit)):   LogUObjectGlobals: Warning: Failed to load '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData': Can't find file for asset '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData' while loading NULL.
+[2019.11.12-02.15.07:789][614]PackagingResults: Warning: Can't find file '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData'
+[2019.11.12-02.15.07:789][614]PackagingResults: Warning: Failed to load '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData': Can't find file '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData'
+[2019.11.12-02.15.07:789][614]PackagingResults: Warning: Can't find file for asset '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData' while loading NULL.
+[2019.11.12-02.15.07:789][614]PackagingResults: Warning: Failed to load '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData': Can't find file for asset '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData' while loading NULL.
+[2019.11.12-02.15.07:789][614]PackagingResults: Warning: Can't find file '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData'
+[2019.11.12-02.15.07:790][614]PackagingResults: Warning: Failed to load '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData': Can't find file '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData'
+[2019.11.12-02.15.07:790][614]PackagingResults: Warning: Can't find file for asset '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData' while loading NULL.
+[2019.11.12-02.15.07:790][614]PackagingResults: Warning: Failed to load '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData': Can't find file for asset '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData' while loading NULL.
+[2019.11.12-02.15.07:790][614]UATHelper: Packaging (Windows (32-bit)):   LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData'
+[2019.11.12-02.15.07:790][614]PackagingResults: Warning: Can't find file '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData'
+[2019.11.12-02.15.07:800][615]UATHelper: Packaging (Windows (32-bit)):   LogUObjectGlobals: Warning: Failed to load '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData': Can't find file '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData'
+[2019.11.12-02.15.07:800][615]UATHelper: Packaging (Windows (32-bit)):   LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData' while loading NULL.
+[2019.11.12-02.15.07:801][615]UATHelper: Packaging (Windows (32-bit)):   LogUObjectGlobals: Warning: Failed to load '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData': Can't find file for asset '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData' while loading NULL.
+[2019.11.12-02.15.07:801][615]UATHelper: Packaging (Windows (32-bit)):   LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData'
+[2019.11.12-02.15.07:801][615]UATHelper: Packaging (Windows (32-bit)):   LogUObjectGlobals: Warning: Failed to load '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData': Can't find file '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData'
+[2019.11.12-02.15.07:801][615]UATHelper: Packaging (Windows (32-bit)):   LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData' while loading NULL.
+[2019.11.12-02.15.07:801][615]UATHelper: Packaging (Windows (32-bit)):   LogUObjectGlobals: Warning: Failed to load '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData': Can't find file for asset '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData' while loading NULL.
+[2019.11.12-02.15.07:801][615]PackagingResults: Warning: Failed to load '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData': Can't find file '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData'
+[2019.11.12-02.15.07:801][615]PackagingResults: Warning: Can't find file for asset '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData' while loading NULL.
+[2019.11.12-02.15.07:801][615]PackagingResults: Warning: Failed to load '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData': Can't find file for asset '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData' while loading NULL.
+[2019.11.12-02.15.07:801][615]PackagingResults: Warning: Can't find file '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData'
+[2019.11.12-02.15.07:801][615]PackagingResults: Warning: Failed to load '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData': Can't find file '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData'
+[2019.11.12-02.15.07:801][615]PackagingResults: Warning: Can't find file for asset '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData' while loading NULL.
+[2019.11.12-02.15.07:801][615]PackagingResults: Warning: Failed to load '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData': Can't find file for asset '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData' while loading NULL.
+[2019.11.12-02.15.07:834][619]UATHelper: Packaging (Windows (32-bit)):   LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData'
+[2019.11.12-02.15.07:834][619]UATHelper: Packaging (Windows (32-bit)):   LogUObjectGlobals: Warning: Failed to load '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData': Can't find file '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData'
+[2019.11.12-02.15.07:834][619]UATHelper: Packaging (Windows (32-bit)):   LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData' while loading NULL.
+[2019.11.12-02.15.07:834][619]UATHelper: Packaging (Windows (32-bit)):   LogUObjectGlobals: Warning: Failed to load '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData': Can't find file for asset '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData' while loading NULL.
+[2019.11.12-02.15.07:834][619]PackagingResults: Warning: Can't find file '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData'
+[2019.11.12-02.15.07:834][619]PackagingResults: Warning: Failed to load '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData': Can't find file '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData'
+[2019.11.12-02.15.07:834][619]PackagingResults: Warning: Can't find file for asset '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData' while loading NULL.
+[2019.11.12-02.15.07:834][619]PackagingResults: Warning: Failed to load '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData': Can't find file for asset '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData' while loading NULL.
+[2019.11.12-02.15.08:122][646]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 201 Packages Remain 84 Total 285
+[2019.11.12-02.15.08:193][653]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 203 Packages Remain 83 Total 286
+[2019.11.12-02.15.08:193][653]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 203 Packages Remain 82 Total 285
+[2019.11.12-02.15.08:193][653]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 204 Packages Remain 81 Total 285
+[2019.11.12-02.15.08:193][653]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 204 Packages Remain 80 Total 284
+[2019.11.12-02.15.08:193][653]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 79 Total 284
+[2019.11.12-02.15.08:193][653]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 206 Packages Remain 78 Total 284
+[2019.11.12-02.15.08:193][653]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 207 Packages Remain 77 Total 284
+[2019.11.12-02.15.08:201][654]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 208 Packages Remain 76 Total 284
+[2019.11.12-02.15.08:201][654]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 208 Packages Remain 75 Total 283
+[2019.11.12-02.15.08:201][654]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 208 Packages Remain 74 Total 282
+[2019.11.12-02.15.08:334][670]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 208 Packages Remain 73 Total 281
+[2019.11.12-02.15.08:334][670]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 208 Packages Remain 72 Total 280
+[2019.11.12-02.15.08:438][679]UATHelper: Packaging (Windows (32-bit)):   LogTexture: Display: Building textures: neighborhood_House (BGRA8, 1366X728)
+[2019.11.12-02.15.08:438][679]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 210 Packages Remain 71 Total 281
+[2019.11.12-02.15.08:438][679]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 210 Packages Remain 70 Total 280
+[2019.11.12-02.15.08:514][688]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 212 Packages Remain 69 Total 281
+[2019.11.12-02.15.08:514][688]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 213 Packages Remain 68 Total 281
+[2019.11.12-02.15.08:523][689]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 214 Packages Remain 67 Total 281
+[2019.11.12-02.15.08:523][689]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 215 Packages Remain 66 Total 281
+[2019.11.12-02.15.08:523][689]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 216 Packages Remain 65 Total 281
+[2019.11.12-02.15.08:532][690]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 217 Packages Remain 64 Total 281
+[2019.11.12-02.15.08:532][690]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 218 Packages Remain 63 Total 281
+[2019.11.12-02.15.08:532][690]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 219 Packages Remain 62 Total 281
+[2019.11.12-02.15.08:539][691]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 220 Packages Remain 61 Total 281
+[2019.11.12-02.15.08:539][691]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 221 Packages Remain 60 Total 281
+[2019.11.12-02.15.08:548][692]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 222 Packages Remain 59 Total 281
+[2019.11.12-02.15.08:548][692]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 223 Packages Remain 58 Total 281
+[2019.11.12-02.15.08:548][692]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 224 Packages Remain 57 Total 281
+[2019.11.12-02.15.08:565][693]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 225 Packages Remain 56 Total 281
+[2019.11.12-02.15.08:565][693]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 226 Packages Remain 55 Total 281
+[2019.11.12-02.15.08:565][693]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 227 Packages Remain 54 Total 281
+[2019.11.12-02.15.08:565][693]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 228 Packages Remain 53 Total 281
+[2019.11.12-02.15.08:565][693]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 229 Packages Remain 52 Total 281
+[2019.11.12-02.15.08:572][694]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 230 Packages Remain 51 Total 281
+[2019.11.12-02.15.08:572][694]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 231 Packages Remain 50 Total 281
+[2019.11.12-02.15.08:592][695]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 232 Packages Remain 49 Total 281
+[2019.11.12-02.15.08:592][695]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 233 Packages Remain 48 Total 281
+[2019.11.12-02.15.08:593][695]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 234 Packages Remain 47 Total 281
+[2019.11.12-02.15.08:593][695]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 235 Packages Remain 46 Total 281
+[2019.11.12-02.15.08:608][697]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 236 Packages Remain 45 Total 281
+[2019.11.12-02.15.08:616][698]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 237 Packages Remain 44 Total 281
+[2019.11.12-02.15.08:625][699]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 238 Packages Remain 43 Total 281
+[2019.11.12-02.15.08:625][699]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 239 Packages Remain 42 Total 281
+[2019.11.12-02.15.08:636][700]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 240 Packages Remain 41 Total 281
+[2019.11.12-02.15.08:650][702]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 241 Packages Remain 40 Total 281
+[2019.11.12-02.15.08:675][705]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 242 Packages Remain 39 Total 281
+[2019.11.12-02.15.08:698][707]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 243 Packages Remain 38 Total 281
+[2019.11.12-02.15.08:698][707]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 244 Packages Remain 37 Total 281
+[2019.11.12-02.15.08:698][707]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 245 Packages Remain 36 Total 281
+[2019.11.12-02.15.08:698][707]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 246 Packages Remain 35 Total 281
+[2019.11.12-02.15.08:707][708]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 247 Packages Remain 34 Total 281
+[2019.11.12-02.15.08:707][708]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 248 Packages Remain 33 Total 281
+[2019.11.12-02.15.08:773][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 248 Packages Remain 32 Total 280
+[2019.11.12-02.15.08:773][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 249 Packages Remain 31 Total 280
+[2019.11.12-02.15.08:774][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 250 Packages Remain 30 Total 280
+[2019.11.12-02.15.08:774][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 251 Packages Remain 29 Total 280
+[2019.11.12-02.15.08:774][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 252 Packages Remain 28 Total 280
+[2019.11.12-02.15.08:774][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 253 Packages Remain 27 Total 280
+[2019.11.12-02.15.08:774][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 254 Packages Remain 26 Total 280
+[2019.11.12-02.15.08:774][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 255 Packages Remain 25 Total 280
+[2019.11.12-02.15.08:774][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 256 Packages Remain 24 Total 280
+[2019.11.12-02.15.08:774][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 257 Packages Remain 23 Total 280
+[2019.11.12-02.15.08:774][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 259 Packages Remain 22 Total 281
+[2019.11.12-02.15.08:774][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 259 Packages Remain 21 Total 280
+[2019.11.12-02.15.08:774][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 259 Packages Remain 20 Total 279
+[2019.11.12-02.15.08:774][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 259 Packages Remain 19 Total 278
+[2019.11.12-02.15.08:774][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 259 Packages Remain 18 Total 277
+[2019.11.12-02.15.08:774][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 259 Packages Remain 17 Total 276
+[2019.11.12-02.15.08:774][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 259 Packages Remain 16 Total 275
+[2019.11.12-02.15.08:774][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 259 Packages Remain 15 Total 274
+[2019.11.12-02.15.08:775][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 259 Packages Remain 14 Total 273
+[2019.11.12-02.15.08:775][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 259 Packages Remain 13 Total 272
+[2019.11.12-02.15.08:775][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 259 Packages Remain 12 Total 271
+[2019.11.12-02.15.08:775][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 259 Packages Remain 11 Total 270
+[2019.11.12-02.15.08:775][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 259 Packages Remain 10 Total 269
+[2019.11.12-02.15.08:775][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 259 Packages Remain 9 Total 268
+[2019.11.12-02.15.08:775][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 259 Packages Remain 8 Total 267
+[2019.11.12-02.15.08:775][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 259 Packages Remain 7 Total 266
+[2019.11.12-02.15.08:775][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 259 Packages Remain 6 Total 265
+[2019.11.12-02.15.08:775][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 259 Packages Remain 5 Total 264
+[2019.11.12-02.15.08:775][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 259 Packages Remain 4 Total 263
+[2019.11.12-02.15.08:775][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 259 Packages Remain 3 Total 262
+[2019.11.12-02.15.08:775][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 259 Packages Remain 2 Total 261
+[2019.11.12-02.15.08:775][714]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 259 Packages Remain 1 Total 260
+[2019.11.12-02.15.12:649][971]UATHelper: Packaging (Windows (32-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2019.11.12-02.15.12:649][971]UATHelper: Packaging (Windows (32-bit)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2019.11.12-02.15.12:649][971]UATHelper: Packaging (Windows (32-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2019.11.12-02.15.12:776][986]UATHelper: Packaging (Windows (32-bit)):   LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.12-02.15.12:827][992]UATHelper: Packaging (Windows (32-bit)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 252, size is 109.10kb
+[2019.11.12-02.15.12:827][992]UATHelper: Packaging (Windows (32-bit)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.12-02.15.12:827][992]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cook by the book total time in tick 4.733899s total time 11.371383
+[2019.11.12-02.15.12:827][992]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Peak Used virtual 589MB Peak Used physical 538MB
+[2019.11.12-02.15.12:827][992]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Hierarchy Timer Information:
+[2019.11.12-02.15.12:827][992]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:   Root: 0.000s (0)
+[2019.11.12-02.15.12:827][992]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:     StartCookByTheBookTime: 2.552s (1)
+[2019.11.12-02.15.12:827][992]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:       GenerateAssetRegistryTime: 0.510s (1)
+[2019.11.12-02.15.12:827][992]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:       CleanSandboxTime: 0.084s (1)
+[2019.11.12-02.15.12:827][992]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:         ProcessingAccessedStrings: 0.019s (1)
+[2019.11.12-02.15.12:828][992]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:       CollectFilesToCook: 0.755s (1)
+[2019.11.12-02.15.12:828][992]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:         CookModificationDelegate: 0.000s (1)
+[2019.11.12-02.15.12:828][992]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:         GeneratePackageNames: 0.000s (1)
+[2019.11.12-02.15.12:828][992]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:       GenerateLongPackageName: 0.001s (1)
+[2019.11.12-02.15.12:828][992]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:     TickCookOnTheSide: 4.672s (85)
+[2019.11.12-02.15.12:828][992]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:       LoadPackage: 1.263s (85)
+[2019.11.12-02.15.12:828][992]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:       CallBeginCacheForCookedPlatformData: 0.274s (85)
+[2019.11.12-02.15.12:828][992]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:       PostLoadPackageFixup: 0.000s (85)
+[2019.11.12-02.15.12:835][993]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:       SavingPackages: 3.130s (68)
+[2019.11.12-02.15.12:835][993]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:         PrecachePlatformDataForNextPackage: 0.081s (211)
+[2019.11.12-02.15.12:835][993]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:         PrecachePlatformDataForNextNextPackage: 1.339s (199)
+[2019.11.12-02.15.12:835][993]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:         SaveCookedPackage: 1.695s (259)
+[2019.11.12-02.15.12:835][993]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:           LoadPackage: 0.000s (259)
+[2019.11.12-02.15.12:835][993]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:           GEditorSavePackage: 1.681s (259)
+[2019.11.12-02.15.12:835][993]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:             ConvertingBlueprints: 0.062s (259)
+[2019.11.12-02.15.12:835][993]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:             VerifyCanCookPackage: 0.001s (252)
+[2019.11.12-02.15.12:835][993]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.006s (259)
+[2019.11.12-02.15.12:835][993]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:         EnqueueUnsavedPackages: 0.000s (3)
+[2019.11.12-02.15.12:835][993]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:     GeneratingBlueprintAssets: 0.071s (1)
+[2019.11.12-02.15.12:835][993]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:     SavingCurrentIniSettings: 0.066s (1)
+[2019.11.12-02.15.12:835][993]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.020s (1)
+[2019.11.12-02.15.12:835][993]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:     SavingAssetRegistry: 0.104s (1)
+[2019.11.12-02.15.12:835][993]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:       BuildChunkManifest: 0.042s (1)
+[2019.11.12-02.15.12:835][993]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:       SaveManifests: 0.006s (1)
+[2019.11.12-02.15.12:835][993]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:       SaveRealAssetRegistry: 0.053s (1)
+[2019.11.12-02.15.12:836][993]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:       WriteCookerOpenOrder: 0.003s (1)
+[2019.11.12-02.15.12:860][996]UATHelper: Packaging (Windows (32-bit)):   LogSavePackage: Display: Took 0.002759s to verify the EDL loading graph.
+[2019.11.12-02.15.12:860][996]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: Misc Cook Stats
+[2019.11.12-02.15.12:860][996]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: ===============
+[2019.11.12-02.15.12:868][997]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: ShaderCompiler
+[2019.11.12-02.15.12:868][997]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000001
+[2019.11.12-02.15.12:868][997]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2019.11.12-02.15.12:878][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2019.11.12-02.15.12:878][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2019.11.12-02.15.12:878][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.000104
+[2019.11.12-02.15.12:878][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2019.11.12-02.15.12:878][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2019.11.12-02.15.12:878][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2019.11.12-02.15.12:878][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2019.11.12-02.15.12:879][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2019.11.12-02.15.12:879][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2019.11.12-02.15.12:879][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: Package.Load
+[2019.11.12-02.15.12:879][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     NumPackagesLoaded=203
+[2019.11.12-02.15.12:879][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     LoadPackageTimeSec=1.954470
+[2019.11.12-02.15.12:879][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: Package.Save
+[2019.11.12-02.15.12:879][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     NumPackagesSaved=259
+[2019.11.12-02.15.12:879][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     SavePackageTimeSec=1.603563
+[2019.11.12-02.15.12:879][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.337727
+[2019.11.12-02.15.12:879][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.078321
+[2019.11.12-02.15.12:879][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     ResetLoadersForSaveTimeSec=0.001137
+[2019.11.12-02.15.12:879][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.001466
+[2019.11.12-02.15.12:879][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000206
+[2019.11.12-02.15.12:879][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2019.11.12-02.15.12:879][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.127704
+[2019.11.12-02.15.12:879][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.438402
+[2019.11.12-02.15.12:879][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.089237
+[2019.11.12-02.15.12:879][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.183508
+[2019.11.12-02.15.12:879][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     MBWritten=76.479663
+[2019.11.12-02.15.12:879][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2019.11.12-02.15.12:879][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2019.11.12-02.15.12:880][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2019.11.12-02.15.12:880][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: Package.DiffTotal
+[2019.11.12-02.15.12:880][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2019.11.12-02.15.12:880][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2019.11.12-02.15.12:880][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2019.11.12-02.15.12:880][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2019.11.12-02.15.12:880][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:
+[2019.11.12-02.15.12:880][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: Cook Profile
+[2019.11.12-02.15.12:880][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: ============
+[2019.11.12-02.15.12:880][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0.CookWallTimeSec=20.655352
+[2019.11.12-02.15.12:880][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=9.231405
+[2019.11.12-02.15.12:880][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=11.415499
+[2019.11.12-02.15.12:880][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=2.552594
+[2019.11.12-02.15.12:880][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000017
+[2019.11.12-02.15.12:880][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=8.814450
+[2019.11.12-02.15.12:880][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=1.265331
+[2019.11.12-02.15.12:880][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=1.695342
+[2019.11.12-02.15.12:880][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2019.11.12-02.15.12:880][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=1.692924
+[2019.11.12-02.15.12:880][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.007476
+[2019.11.12-02.15.12:880][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2019.11.12-02.15.12:880][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.008929
+[2019.11.12-02.15.12:880][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000008
+[2019.11.12-02.15.12:881][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000018
+[2019.11.12-02.15.12:881][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000002
+[2019.11.12-02.15.12:881][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:
+[2019.11.12-02.15.12:881][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: DDC Summary Stats
+[2019.11.12-02.15.12:881][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: =================
+[2019.11.12-02.15.12:881][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: TotalGetHits  =       633
+[2019.11.12-02.15.12:881][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: TotalGets     =       634
+[2019.11.12-02.15.12:881][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: TotalGetHitPct=  0.998423
+[2019.11.12-02.15.12:881][998]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: LocalGetHitPct=  0.028391
+[2019.11.12-02.15.12:889][999]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: SharedGetHitPct=  0.000000
+[2019.11.12-02.15.12:889][999]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: OtherGetHitPct=  0.970032
+[2019.11.12-02.15.12:889][999]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: GetMissPct    =  0.001577
+[2019.11.12-02.15.12:889][999]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: TotalPutHits  =         3
+[2019.11.12-02.15.12:889][999]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: TotalPuts     =         3
+[2019.11.12-02.15.12:889][999]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: TotalPutHitPct=  1.000000
+[2019.11.12-02.15.12:889][999]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: PutMissPct    =  0.000000
+[2019.11.12-02.15.12:889][999]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:
+[2019.11.12-02.15.12:889][999]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: DDC Resource Stats
+[2019.11.12-02.15.12:889][999]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: =======================================================================================================
+[2019.11.12-02.15.12:889][999]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2019.11.12-02.15.12:889][999]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2019.11.12-02.15.12:889][999]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: MaterialShader                                  0.78                   0.78             0          6.95
+[2019.11.12-02.15.12:889][999]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: Texture (Streaming)                             0.35                   0.00             0         15.26
+[2019.11.12-02.15.12:889][999]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: GlobalShader                                    0.23                   0.23             0          5.14
+[2019.11.12-02.15.12:889][999]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: Texture (Inline)                                0.15                   0.15             1         42.20
+[2019.11.12-02.15.12:889][999]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.12                   0.12             0          1.34
+[2019.11.12-02.15.12:889][999]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: StaticMesh                                      0.10                   0.10             0          3.54
+[2019.11.12-02.15.12:889][999]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: NavCollision                                    0.01                   0.01             0          0.03
+[2019.11.12-02.15.12:889][999]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: SoundWave                                       0.00                   0.00             0          0.03
+[2019.11.12-02.15.12:889][999]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2019.11.12-02.15.12:889][999]UATHelper: Packaging (Windows (32-bit)):   LogInit: Display:
+[2019.11.12-02.15.12:889][999]UATHelper: Packaging (Windows (32-bit)):   LogInit: Display: Warning/Error Summary (Unique only)
+[2019.11.12-02.15.12:889][999]UATHelper: Packaging (Windows (32-bit)):   LogInit: Display: -----------------------------------
+[2019.11.12-02.15.12:889][999]UATHelper: Packaging (Windows (32-bit)):   LogInit: Display: LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData'
+[2019.11.12-02.15.12:889][999]UATHelper: Packaging (Windows (32-bit)):   LogInit: Display: LogUObjectGlobals: Warning: Failed to load '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData': Can't find file '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData'
+[2019.11.12-02.15.12:889][999]UATHelper: Packaging (Windows (32-bit)):   LogInit: Display: LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData' while loading NULL.
+[2019.11.12-02.15.12:895][  0]UATHelper: Packaging (Windows (32-bit)):   LogInit: Display: LogUObjectGlobals: Warning: Failed to load '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData': Can't find file for asset '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData' while loading NULL.
+[2019.11.12-02.15.12:895][  0]UATHelper: Packaging (Windows (32-bit)):   LogInit: Display:
+[2019.11.12-02.15.12:896][  0]UATHelper: Packaging (Windows (32-bit)):   LogInit: Display: Success - 0 error(s), 20 warning(s)
+[2019.11.12-02.15.12:896][  0]UATHelper: Packaging (Windows (32-bit)):   LogInit: Display:
+[2019.11.12-02.15.12:896][  0]UATHelper: Packaging (Windows (32-bit)):   
+[2019.11.12-02.15.12:896][  0]UATHelper: Packaging (Windows (32-bit)):   Execution of commandlet took:  11.46 seconds
+[2019.11.12-02.15.13:627][ 71]UATHelper: Packaging (Windows (32-bit)):   FGlobalReadBuffer::ReleaseRHI
+[2019.11.12-02.15.13:628][ 71]UATHelper: Packaging (Windows (32-bit)):   FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.12-02.15.13:628][ 71]UATHelper: Packaging (Windows (32-bit)):   FGlobalReadBuffer::ReleaseRHI
+[2019.11.12-02.15.13:628][ 71]UATHelper: Packaging (Windows (32-bit)):   FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.12-02.15.13:628][ 71]UATHelper: Packaging (Windows (32-bit)):   FGlobalReadBuffer::ReleaseRHI
+[2019.11.12-02.15.13:629][ 71]UATHelper: Packaging (Windows (32-bit)):   FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.12-02.15.13:689][ 73]UATHelper: Packaging (Windows (32-bit)): Took 21.6808005s to run UE4Editor-Cmd.exe, ExitCode=0
+[2019.11.12-02.15.13:720][ 74]UATHelper: Packaging (Windows (32-bit)): ********** COOK COMMAND COMPLETED **********
+[2019.11.12-02.15.13:758][ 76]UATHelper: Packaging (Windows (32-bit)): ********** STAGE COMMAND STARTED **********
+[2019.11.12-02.15.14:684][142]UATHelper: Packaging (Windows (32-bit)): Creating Staging Manifest...
+[2019.11.12-02.15.14:888][163]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\UE_4.22\UE_4.22\Engine\Config\BaseEditor.ini
+[2019.11.12-02.15.14:888][163]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\UE_4.22\UE_4.22\Engine\Config\BaseEditorKeyBindings.ini
+[2019.11.12-02.15.14:888][163]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\UE_4.22\UE_4.22\Engine\Config\BaseEditorLayout.ini
+[2019.11.12-02.15.14:888][163]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\UE_4.22\UE_4.22\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2019.11.12-02.15.14:888][163]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\UE_4.22\UE_4.22\Engine\Config\BaseEditorSettings.ini
+[2019.11.12-02.15.14:888][163]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\UE_4.22\UE_4.22\Engine\Config\BaseLightmass.ini
+[2019.11.12-02.15.14:888][163]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\UE_4.22\UE_4.22\Engine\Config\BasePakFileRules.ini
+[2019.11.12-02.15.14:889][163]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\UE_4.22\UE_4.22\Engine\Config\Localization\Category.ini
+[2019.11.12-02.15.14:889][163]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\UE_4.22\UE_4.22\Engine\Config\Localization\Category_Compile.ini
+[2019.11.12-02.15.14:889][163]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\UE_4.22\UE_4.22\Engine\Config\Localization\Editor.ini
+[2019.11.12-02.15.14:889][163]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\UE_4.22\UE_4.22\Engine\Config\Localization\EditorTutorials.ini
+[2019.11.12-02.15.14:889][163]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\UE_4.22\UE_4.22\Engine\Config\Localization\Engine.ini
+[2019.11.12-02.15.14:889][163]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\UE_4.22\UE_4.22\Engine\Config\Localization\Keywords.ini
+[2019.11.12-02.15.14:889][163]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\UE_4.22\UE_4.22\Engine\Config\Localization\Keywords_Compile.ini
+[2019.11.12-02.15.14:889][163]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\UE_4.22\UE_4.22\Engine\Config\Localization\PortableObjectExport.ini
+[2019.11.12-02.15.14:889][163]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\UE_4.22\UE_4.22\Engine\Config\Localization\PortableObjectImport.ini
+[2019.11.12-02.15.14:889][163]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\UE_4.22\UE_4.22\Engine\Config\Localization\PropertyNames.ini
+[2019.11.12-02.15.14:889][163]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\UE_4.22\UE_4.22\Engine\Config\Localization\RepairData.ini
+[2019.11.12-02.15.14:889][163]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\UE_4.22\UE_4.22\Engine\Config\Localization\ToolTips.ini
+[2019.11.12-02.15.14:890][163]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\UE_4.22\UE_4.22\Engine\Config\Localization\ToolTips_Compile.ini
+[2019.11.12-02.15.14:890][163]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\UE_4.22\UE_4.22\Engine\Config\Localization\WordCount.ini
+[2019.11.12-02.15.14:898][163]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\Users\W211641607\Desktop\MM\Config\DefaultEditor.ini
+[2019.11.12-02.15.14:898][163]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\Users\W211641607\Desktop\MM\Config\DefaultEditorPerProjectUserSettings.ini
+[2019.11.12-02.15.15:137][189]UATHelper: Packaging (Windows (32-bit)): Cleaning Stage Directory: C:\Users\W211641607\Desktop\MM\Saved\StagedBuilds\WindowsNoEditor
+[2019.11.12-02.15.15:154][191]UATHelper: Packaging (Windows (32-bit)): Creating pak using staging manifest.
+[2019.11.12-02.15.15:848][274]UATHelper: Packaging (Windows (32-bit)): Executing 1 UnrealPak command...
+[2019.11.12-02.15.22:592][908]UATHelper: Packaging (Windows (32-bit)): Waiting for child processes to complete (1/1)
+[2019.11.12-02.15.22:592][908]UATHelper: Packaging (Windows (32-bit)): Output from: C:\Users\W211641607\Desktop\MM\Saved\StagedBuilds\WindowsNoEditor\MoonMan_Prototype\Content\Paks\MoonMan_Prototype-WindowsNoEditor.pak -create="C:\Users\W211641607\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+UE_4.22+UE_4.22\PakList_MoonMan_Prototype-WindowsNoEditor.txt" -cryptokeys=C:\Users\W211641607\Desktop\MM\Saved\Cooked\WindowsNoEditor\MoonMan_Prototype\Metadata\Crypto.json -order=C:\Users\W211641607\Desktop\MM\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log -patchpaddingalign=2048 -compressionformats=  C:\Users\W211641607\Desktop\MM\MoonMan_Prototype.uproject -multiprocess -abslog="C:\Users\W211641607\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+UE_4.22+UE_4.22\UnrealPak-MoonMan_Prototype-WindowsNoEditor-2019.11.11-20.15.15.txt"
+[2019.11.12-02.15.22:608][910]UATHelper: Packaging (Windows (32-bit)):   LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2019.11.12-02.15.22:608][910]UATHelper: Packaging (Windows (32-bit)):   LogCompression: Display: FCompression::GetCompressionFormat - Unable to find a module or plugin for compression format C:\Users\W211641607\Desktop\MM\MoonMan_Prototype.uproject
+[2019.11.12-02.15.22:608][910]UATHelper: Packaging (Windows (32-bit)):   LogPakFile: Display: Loading response file C:\Users\W211641607\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+UE_4.22+UE_4.22\PakList_MoonMan_Prototype-WindowsNoEditor.txt
+[2019.11.12-02.15.22:608][910]UATHelper: Packaging (Windows (32-bit)):   LogPakFile: Display: Added 1363 entries to add to pak file.
+[2019.11.12-02.15.22:608][910]UATHelper: Packaging (Windows (32-bit)):   LogPakFile: Display: Loading pak order file C:\Users\W211641607\Desktop\MM\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log...
+[2019.11.12-02.15.22:608][910]UATHelper: Packaging (Windows (32-bit)):   LogPakFile: Display: Finished loading pak order file C:\Users\W211641607\Desktop\MM\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log.
+[2019.11.12-02.15.22:608][910]UATHelper: Packaging (Windows (32-bit)):   LogPakFile: Display: Collecting files to add to pak file...
+[2019.11.12-02.15.22:608][910]UATHelper: Packaging (Windows (32-bit)):   LogPakFile: Display: Collected 1363 files in 0.01s.
+[2019.11.12-02.15.22:608][910]UATHelper: Packaging (Windows (32-bit)):   LogPakFile: Display: Encrypting using embedded key
+[2019.11.12-02.15.22:608][910]UATHelper: Packaging (Windows (32-bit)):   LogPakFile: Display: Added 1363 files, 97221206 bytes total, time 2.33s.
+[2019.11.12-02.15.22:608][910]UATHelper: Packaging (Windows (32-bit)):   LogPakFile: Display: Encryption - DISABLED
+[2019.11.12-02.15.22:608][910]UATHelper: Packaging (Windows (32-bit)):   LogPakFile: Display: Unreal pak executed in 2.372192 seconds
+[2019.11.12-02.15.22:619][911]UATHelper: Packaging (Windows (32-bit)): UnrealPak terminated with exit code 0
+[2019.11.12-02.15.22:641][914]UATHelper: Packaging (Windows (32-bit)): Copying NonUFSFiles to staging directory: C:\Users\W211641607\Desktop\MM\Saved\StagedBuilds\WindowsNoEditor
+[2019.11.12-02.15.25:019][ 79]UATHelper: Packaging (Windows (32-bit)): ********** STAGE COMMAND COMPLETED **********
+[2019.11.12-02.15.25:024][ 80]UATHelper: Packaging (Windows (32-bit)): ********** PACKAGE COMMAND STARTED **********
+[2019.11.12-02.15.25:053][ 81]UATHelper: Packaging (Windows (32-bit)): ********** PACKAGE COMMAND COMPLETED **********
+[2019.11.12-02.15.25:055][ 81]UATHelper: Packaging (Windows (32-bit)): ********** ARCHIVE COMMAND STARTED **********
+[2019.11.12-02.15.25:055][ 81]UATHelper: Packaging (Windows (32-bit)): Archiving to E:/
+[2019.11.12-02.15.43:739][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-02.15.56:574][206]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-02.15.56:580][206]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Users/W211641607/Desktop/Game Assets/house1.png)
+[2019.11.12-02.15.56:632][206]LogTexture: Display: Building textures: house1 (BGRA8, 648X926)
+[2019.11.12-02.15.58:900][381]UATHelper: Packaging (Windows (32-bit)): ********** ARCHIVE COMMAND COMPLETED **********
+[2019.11.12-02.15.58:903][381]UATHelper: Packaging (Windows (32-bit)): BUILD SUCCESSFUL
+[2019.11.12-02.15.58:909][382]UATHelper: Packaging (Windows (32-bit)): AutomationTool exiting with ExitCode=0 (Success)
+[2019.11.12-02.18.35:190][852]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (TemplateFloor)
+[2019.11.12-02.18.35:266][852]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-02.18.47:117][226]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.11.12-02.18.52:348][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2019.11.12-02.18.53:562][951]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.12-02.18.56:199][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-02.19.06:501][206]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.11.12-02.19.13:633][ 21]Cmd: DELETE
+[2019.11.12-02.19.13:633][ 21]Cmd: ACTOR DELETE
+[2019.11.12-02.19.13:635][ 21]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2019.11.12-02.19.13:748][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2019.11.12-02.19.13:748][ 21]LogEditorActor: Deleted 1 Actors (0.115 secs)
+[2019.11.12-02.20.20:187][298]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.12-02.20.35:119][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2019.11.12-02.20.36:324][560]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.12-02.20.40:262][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-02.20.49:891][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-02.20.51:324][251]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.11.12-02.20.51:329][251]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-02.20.51:336][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_00" FILE="../../../../../Users/W211641607/Desktop/MM/Content/Demo/Maps/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.12-02.20.51:371][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.11.12-02.20.51:557][251]LogSavePackage: Moving '../../../../../Users/W211641607/Desktop/MM/Saved/Level_005B2A862244EDB1D978099180FF1704E0.tmp' to '../../../../../Users/W211641607/Desktop/MM/Content/Demo/Maps/Level_00.umap'
+[2019.11.12-02.20.51:591][251]LogFileHelpers: Saving map 'Level_00' took 0.255
+[2019.11.12-02.20.51:602][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/house1" FILE="../../../../../Users/W211641607/Desktop/MM/Content/Geometry/Meshes/house1.uasset" SILENT=true
+[2019.11.12-02.20.51:637][251]LogSavePackage: Moving '../../../../../Users/W211641607/Desktop/MM/Saved/house149EE23654F883FB6F85DCDB4FFF73FF7.tmp' to '../../../../../Users/W211641607/Desktop/MM/Content/Geometry/Meshes/house1.uasset'
+[2019.11.12-02.20.51:656][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/house1_Sprite" FILE="../../../../../Users/W211641607/Desktop/MM/Content/Geometry/Meshes/house1_Sprite.uasset" SILENT=true
+[2019.11.12-02.20.51:668][251]LogSavePackage: Moving '../../../../../Users/W211641607/Desktop/MM/Saved/house1_Sprite1D92E8F441C10446E9733A8F0EF35290.tmp' to '../../../../../Users/W211641607/Desktop/MM/Content/Geometry/Meshes/house1_Sprite.uasset'
+[2019.11.12-02.21.16:260][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-02.29.51:034][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2019.11.12-02.30.07:222][196]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-02.30.08:656][367]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-02.30.09:561][475]Cmd: TRANSACTION UNDO
+[2019.11.12-02.30.09:561][475]LogEditorTransaction: Undo Move Actors
+[2019.11.12-02.30.10:162][544]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-02.30.11:469][699]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-02.30.16:509][297]LogEditorTransaction: Undo Clicking on Actors
+[2019.11.12-02.30.20:297][731]LogSlate: Window 'Undo History' being destroyed
+[2019.11.12-02.30.20:300][731]LogSlate: Window 'Undo History' being destroyed
+[2019.11.12-02.30.58:095][514]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-02.30.58:135][514]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2019.11.12-02.30.58:136][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_00" FILE="../../../../../Users/W211641607/Desktop/MM/Saved/Autosaves/Game/Demo/Maps/Level_00_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.12-02.30.58:310][514]LogSavePackage: Moving '../../../../../Users/W211641607/Desktop/MM/Saved/Level_00_Auto5A6E07F7D4B10BC0A85E833B8761C8502.tmp' to '../../../../../Users/W211641607/Desktop/MM/Saved/Autosaves/Game/Demo/Maps/Level_00_Auto5.umap'
+[2019.11.12-02.30.58:320][514]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/Maps/Level_00' took 0.216
+[2019.11.12-02.30.58:320][514]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.216
+[2019.11.12-02.31.20:355][665]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-02.31.21:335][779]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.11.12-02.31.21:340][779]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-02.31.21:346][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_00" FILE="../../../../../Users/W211641607/Desktop/MM/Content/Demo/Maps/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.12-02.31.21:375][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.11.12-02.31.21:530][779]LogSavePackage: Moving '../../../../../Users/W211641607/Desktop/MM/Saved/Level_00677747F2461972021D1B1AA4263CA398.tmp' to '../../../../../Users/W211641607/Desktop/MM/Content/Demo/Maps/Level_00.umap'
+[2019.11.12-02.31.21:562][779]LogFileHelpers: Saving map 'Level_00' took 0.217
+[2019.11.12-02.31.33:935][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-02.31.34:035][271]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.12-02.31.34:043][271]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.31.34:043][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-02.31.34:043][271]PIE: New page: PIE session: Level_00 (Nov 11, 2019, 2:31:34 PM)
+[2019.11.12-02.31.34:044][271]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_00
+[2019.11.12-02.31.34:222][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.178751s)
+[2019.11.12-02.31.34:223][271]LogAIModule: Creating AISystem for world Level_00
+[2019.11.12-02.31.34:223][271]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2019.11.12-02.31.34:223][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_00.Level_00 to /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 (0.179566s)
+[2019.11.12-02.31.34:251][271]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.11.12-02.31.34:254][271]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.12-02.31.34:280][271]LogInit: FAudioDevice initialized.
+[2019.11.12-02.31.34:314][271]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.11.12-02.31.34:318][271]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2019.11.11-20.31.34
+[2019.11.12-02.31.34:319][271]LogWorld: Bringing up level for play took: 0.002381
+[2019.11.12-02.31.34:336][271]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Level_00 -0.423
+[2019.11.12-02.31.34:336][271]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.31.50:548][957]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.31.50:548][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-02.31.50:599][957]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-02.31.50:599][957]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.31.50:651][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-02.31.50:656][957]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.11.12-02.31.50:692][958]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.11.12-02.31.54:223][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-02.32.03:306][199]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-02.32.04:847][374]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.12-02.32.04:855][374]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.32.04:855][374]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-02.32.04:855][374]PIE: New page: PIE session: Level_00 (Nov 11, 2019, 2:32:04 PM)
+[2019.11.12-02.32.04:855][374]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_00
+[2019.11.12-02.32.04:860][374]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004853s)
+[2019.11.12-02.32.04:861][374]LogAIModule: Creating AISystem for world Level_00
+[2019.11.12-02.32.04:861][374]LogPlayLevel: PIE: World Init took: (0.000726s)
+[2019.11.12-02.32.04:861][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_00.Level_00 to /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 (0.005743s)
+[2019.11.12-02.32.04:898][374]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.11.12-02.32.04:901][374]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.12-02.32.04:940][374]LogInit: FAudioDevice initialized.
+[2019.11.12-02.32.05:083][374]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.11.12-02.32.05:085][374]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2019.11.11-20.32.05
+[2019.11.12-02.32.05:085][374]LogWorld: Bringing up level for play took: 0.000788
+[2019.11.12-02.32.05:097][374]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Level_00 0.338
+[2019.11.12-02.32.05:097][374]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.32.16:810][870]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.32.16:810][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-02.32.16:858][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-02.32.16:858][870]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.32.16:896][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-02.32.16:900][870]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.11.12-02.32.16:935][871]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.11.12-02.32.18:293][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-02.32.19:210][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.11.12-02.32.24:646][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
