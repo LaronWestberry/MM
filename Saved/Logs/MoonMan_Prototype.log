@@ -767,3 +767,311 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.12-01.19.53:610][724]LogSlate: Window 'WorldGridMaterial' being destroyed
 [2019.11.12-01.19.59:716][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.11.12-01.21.14:026][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-01.22.19:422][299]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-01.23.05:351][588]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-01.23.05:808][642]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-01.23.07:944][898]Cmd: TRANSACTION UNDO
+[2019.11.12-01.23.07:944][898]LogEditorTransaction: Undo Clicking on Brush Vertex
+[2019.11.12-01.23.11:076][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-01.23.16:739][923]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush House)
+[2019.11.12-01.24.14:099][514]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-01.24.45:287][904]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-01.24.45:607][941]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-01.24.46:752][ 78]Cmd: TRANSACTION UNDO
+[2019.11.12-01.24.46:752][ 78]LogEditorTransaction: Undo Scale Actors
+[2019.11.12-01.24.48:679][281]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-01.26.02:370][759]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2019.11.12-01.26.02:371][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_00" FILE="../../../../../Users/W211641607/Desktop/MM/Saved/Autosaves/Game/Demo/Maps/Level_00_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.12-01.26.02:618][759]LogSavePackage: Moving '../../../../../Users/W211641607/Desktop/MM/Saved/Level_00_Auto3EA7404164D89AE918A8690B17FAC6F93.tmp' to '../../../../../Users/W211641607/Desktop/MM/Saved/Autosaves/Game/Demo/Maps/Level_00_Auto3.umap'
+[2019.11.12-01.26.02:627][759]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/Maps/Level_00' took 0.311
+[2019.11.12-01.26.02:627][759]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.311
+[2019.11.12-01.27.17:943][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-01.27.17:996][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-01.27.39:500][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-01.27.46:593][702]Cmd: BRUSH MERGEPOLYS
+[2019.11.12-01.27.53:756][522]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-01.27.54:064][558]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-01.27.54:434][601]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-01.27.55:203][692]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-01.27.56:050][793]Cmd: TRANSACTION UNDO
+[2019.11.12-01.27.56:051][793]LogEditorTransaction: Undo Select Brush Surface
+[2019.11.12-01.27.57:064][907]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-01.27.58:097][ 29]Cmd: TRANSACTION UNDO
+[2019.11.12-01.27.58:097][ 29]LogEditorTransaction: Undo Select Brush Surface
+[2019.11.12-01.27.59:104][143]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-01.30.24:360][428]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (neighborhood_Sprite)
+[2019.11.12-01.33.01:649][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-01.34.02:690][757]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-01.34.06:220][179]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-01.34.07:429][322]Cmd: TRANSACTION UNDO
+[2019.11.12-01.34.07:429][322]LogEditorTransaction: Undo Move Actors
+[2019.11.12-01.34.07:433][322]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2019.11.12-01.34.07:433][322]LogGeometryMode: Warning: Unable to resolve BoxBrushRoof Brush in new BSP, see above
+[2019.11.12-01.34.07:433][322]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.11.12-01.34.10:104][630]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-01.34.12:317][895]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (neighborhood_Sprite)
+[2019.11.12-01.34.16:391][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-01.34.23:204][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-01.34.55:314][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-01.35.14:598][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-01.35.24:267][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-01.36.06:584][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-01.36.34:961][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-01.36.50:124][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-01.37.18:230][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-01.37.19:412][144]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (neighborhood_Sprite)
+[2019.11.12-01.37.47:715][225]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (neighborhood_Sprite)
+[2019.11.12-01.37.50:813][532]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.11.12-01.37.52:578][727]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.12-01.37.56:297][136]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.12-01.37.58:260][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2019.11.12-01.38.21:897][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-01.38.31:135][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-01.38.58:861][179]Cmd: TRANSACTION UNDO
+[2019.11.12-01.38.58:861][179]LogEditorTransaction: Undo Modify Component(s)
+[2019.11.12-01.39.04:195][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-01.39.51:152][688]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2019.11.12-01.39.51:153][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_00" FILE="../../../../../Users/W211641607/Desktop/MM/Saved/Autosaves/Game/Demo/Maps/Level_00_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.12-01.39.51:468][688]LogSavePackage: Moving '../../../../../Users/W211641607/Desktop/MM/Saved/Level_00_Auto48026D76B4A996D2282B95DB9B7BD2F45.tmp' to '../../../../../Users/W211641607/Desktop/MM/Saved/Autosaves/Game/Demo/Maps/Level_00_Auto4.umap'
+[2019.11.12-01.39.51:478][688]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/Maps/Level_00' took 0.386
+[2019.11.12-01.39.51:478][688]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.386
+[2019.11.12-01.39.51:480][688]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Demo/Blueprint/BP_Test] ([1] browsable assets)...
+[2019.11.12-01.39.51:480][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Blueprint/BP_Test]
+[2019.11.12-01.39.51:480][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/BP_Test" FILE="../../../../../Users/W211641607/Desktop/MM/Saved/Autosaves/Game/Demo/Blueprint/BP_Test_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.11.12-01.39.51:514][688]LogSavePackage: Moving '../../../../../Users/W211641607/Desktop/MM/Saved/BP_Test_Auto4AC25BD404AC5D82BEA453ABD6F0880FB.tmp' to '../../../../../Users/W211641607/Desktop/MM/Saved/Autosaves/Game/Demo/Blueprint/BP_Test_Auto4.uasset'
+[2019.11.12-01.39.51:523][688]LogFileHelpers: Auto-saving content packages took 0.044
+[2019.11.12-01.51.10:939][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-01.51.33:455][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-01.52.06:399][774]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-01.52.07:877][835]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-01.52.09:001][879]Cmd: TRANSACTION UNDO
+[2019.11.12-01.52.09:001][879]LogEditorTransaction: Undo Modify Component(s)
+[2019.11.12-01.52.10:828][954]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-01.52.12:592][ 19]Cmd: TRANSACTION UNDO
+[2019.11.12-01.52.12:592][ 19]LogEditorTransaction: Undo Modify Component(s)
+[2019.11.12-01.52.13:759][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-01.52.14:176][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-01.52.14:740][108]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-01.52.15:913][155]Cmd: TRANSACTION UNDO
+[2019.11.12-01.52.15:913][155]LogEditorTransaction: Undo Modify Component(s)
+[2019.11.12-01.52.16:892][194]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-01.52.17:659][221]Cmd: TRANSACTION UNDO
+[2019.11.12-01.52.17:659][221]LogEditorTransaction: Undo Modify Component(s)
+[2019.11.12-01.52.18:076][236]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-01.52.18:636][259]Cmd: TRANSACTION UNDO
+[2019.11.12-01.52.18:636][259]LogEditorTransaction: Undo Modify Component(s)
+[2019.11.12-01.52.19:198][280]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-01.52.19:929][306]Cmd: TRANSACTION UNDO
+[2019.11.12-01.52.19:929][306]LogEditorTransaction: Undo Modify Component(s)
+[2019.11.12-01.52.20:470][325]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-01.52.22:130][383]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-01.52.32:027][818]LogEditorTransaction: Undo Modify Component(s)
+[2019.11.12-01.52.32:073][818]LogEditorTransaction: Undo Modify Component(s)
+[2019.11.12-01.52.32:093][818]LogEditorTransaction: Undo Reset Rotation
+[2019.11.12-01.52.32:096][818]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.BP_Test_C_0.CollisionCylinder) Component already registered.
+[2019.11.12-01.52.32:097][818]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.BP_Test_C_0.CharacterMesh0) Component already registered.
+[2019.11.12-01.52.32:115][818]LogEditorTransaction: Undo Modify Component(s)
+[2019.11.12-01.52.32:135][818]LogEditorTransaction: Undo Modify Component(s)
+[2019.11.12-01.52.32:155][818]LogEditorTransaction: Undo Modify Component(s)
+[2019.11.12-01.52.35:247][933]LogEditorTransaction: Undo Modify Component(s)
+[2019.11.12-01.52.35:272][933]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.BP_Test_C_0.CollisionCylinder) Component already registered.
+[2019.11.12-01.52.35:273][933]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.BP_Test_C_0.CharacterMesh0) Component already registered.
+[2019.11.12-01.52.37:612][ 13]LogSlate: Window 'Undo History' being destroyed
+[2019.11.12-01.52.37:637][ 13]LogSlate: Window 'Undo History' being destroyed
+[2019.11.12-01.52.44:184][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-01.53.20:243][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-01.53.20:286][974]BlueprintLog: New page: Compile BP_Test
+[2019.11.12-01.53.20:548][974]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2019.11.12-01.53.21:209][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/BP_Test" FILE="../../../../../Users/W211641607/Desktop/MM/Content/Demo/Blueprint/BP_Test.uasset" SILENT=true
+[2019.11.12-01.53.21:244][  2]LogSavePackage: Moving '../../../../../Users/W211641607/Desktop/MM/Saved/BP_TestE1D944DC4DED53E67A59459610DD9797.tmp' to '../../../../../Users/W211641607/Desktop/MM/Content/Demo/Blueprint/BP_Test.uasset'
+[2019.11.12-01.53.21:909][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-01.53.21:952][ 35]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.12-01.53.21:966][ 35]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-01.53.21:966][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-01.53.21:966][ 35]PIE: New page: PIE session: Level_00 (Nov 11, 2019, 1:53:21 PM)
+[2019.11.12-01.53.21:966][ 35]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_00
+[2019.11.12-01.53.21:972][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005823s)
+[2019.11.12-01.53.21:973][ 35]LogAIModule: Creating AISystem for world Level_00
+[2019.11.12-01.53.21:973][ 35]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2019.11.12-01.53.21:973][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_00.Level_00 to /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 (0.006815s)
+[2019.11.12-01.53.22:018][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2019.11.12-01.53.22:023][ 35]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.12-01.53.22:050][ 35]LogInit: FAudioDevice initialized.
+[2019.11.12-01.53.22:055][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-01.53.22:087][ 35]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.11.12-01.53.22:089][ 35]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2019.11.11-19.53.22
+[2019.11.12-01.53.22:089][ 35]LogWorld: Bringing up level for play took: 0.000861
+[2019.11.12-01.53.22:105][ 35]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Level_00 -0.606
+[2019.11.12-01.53.22:111][ 35]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-01.53.37:039][587]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-01.53.37:039][587]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-01.53.37:060][587]LogSlate: Window 'MoonMan_Prototype Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.12-01.53.37:174][587]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-01.53.37:175][587]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-01.53.37:242][587]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2019.11.12-01.53.37:254][588]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.11.12-01.54.10:459][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-01.54.57:109][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-01.54.57:225][213]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.12-01.54.57:242][213]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-01.54.57:242][213]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-01.54.57:242][213]PIE: New page: PIE session: Level_00 (Nov 11, 2019, 1:54:57 PM)
+[2019.11.12-01.54.57:242][213]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_00
+[2019.11.12-01.54.57:249][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006328s)
+[2019.11.12-01.54.57:249][213]LogAIModule: Creating AISystem for world Level_00
+[2019.11.12-01.54.57:249][213]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2019.11.12-01.54.57:249][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_00.Level_00 to /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 (0.007166s)
+[2019.11.12-01.54.57:296][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.11.12-01.54.57:298][213]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.12-01.54.57:325][213]LogInit: FAudioDevice initialized.
+[2019.11.12-01.54.57:330][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-01.54.57:368][213]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.11.12-01.54.57:369][213]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2019.11.11-19.54.57
+[2019.11.12-01.54.57:370][213]LogWorld: Bringing up level for play took: 0.000877
+[2019.11.12-01.54.57:383][213]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Level_00 0.67
+[2019.11.12-01.54.57:384][213]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-01.55.09:911][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-01.55.09:998][673]LogSlate: Window 'MoonMan_Prototype Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.12-01.55.10:021][673]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-01.55.10:049][673]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-01.55.10:049][673]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-01.55.10:104][673]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.11.12-01.55.10:116][674]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.11.12-01.55.54:383][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-01.56.28:469][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-01.56.58:674][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-01.59.40:513][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-01.59.53:817][470]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.12-01.59.53:833][470]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-01.59.53:833][470]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.12-01.59.53:834][470]LogPlayLevel: [PlayLevel] Compiling BP_Test before play...
+[2019.11.12-01.59.54:100][470]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2019.11.12-01.59.54:100][470]LogPlayLevel: PlayLevel: Blueprint regeneration took 266 ms (1 blueprints)
+[2019.11.12-01.59.54:101][470]PIE: New page: PIE session: Level_00 (Nov 11, 2019, 1:59:54 PM)
+[2019.11.12-01.59.54:101][470]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_00
+[2019.11.12-01.59.54:106][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005216s)
+[2019.11.12-01.59.54:106][470]LogAIModule: Creating AISystem for world Level_00
+[2019.11.12-01.59.54:107][470]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2019.11.12-01.59.54:107][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_00.Level_00 to /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 (0.005998s)
+[2019.11.12-01.59.54:146][470]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.11.12-01.59.54:148][470]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.12-01.59.54:174][470]LogInit: FAudioDevice initialized.
+[2019.11.12-01.59.54:181][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-01.59.54:213][470]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.11.12-01.59.54:215][470]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2019.11.11-19.59.54
+[2019.11.12-01.59.54:215][470]LogWorld: Bringing up level for play took: 0.000875
+[2019.11.12-01.59.54:230][470]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Level_00 -0.49
+[2019.11.12-01.59.54:230][470]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.00.13:041][ 50]LogRenderer: Reallocating scene render targets to support 1272x1008 Format 10 NumSamples 1 (Frame:581).
+[2019.11.12-02.00.17:874][157]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-02.00.31:487][658]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-02.00.41:280][  2]LogSlate: Window 'MoonMan_Prototype Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.12-02.00.41:302][  2]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.00.41:334][  2]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-02.00.41:335][  2]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.00.41:394][  2]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.11.12-02.00.41:407][  3]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.11.12-02.00.46:389][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-02.01.00:764][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-02.04.38:772][894]BlueprintLog: New page: Compile BP_Test
+[2019.11.12-02.04.39:012][894]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2019.11.12-02.04.40:218][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/BP_Test" FILE="../../../../../Users/W211641607/Desktop/MM/Content/Demo/Blueprint/BP_Test.uasset" SILENT=true
+[2019.11.12-02.04.40:257][947]LogSavePackage: Moving '../../../../../Users/W211641607/Desktop/MM/Saved/BP_TestCCDA0868492B0A37588DB29895C5C55F.tmp' to '../../../../../Users/W211641607/Desktop/MM/Content/Demo/Blueprint/BP_Test.uasset'
+[2019.11.12-02.04.42:288][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-02.04.51:176][435]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.12-02.04.51:190][435]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.04.51:190][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-02.04.51:190][435]PIE: New page: PIE session: Level_00 (Nov 11, 2019, 2:04:51 PM)
+[2019.11.12-02.04.51:190][435]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_00
+[2019.11.12-02.04.51:195][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004918s)
+[2019.11.12-02.04.51:196][435]LogAIModule: Creating AISystem for world Level_00
+[2019.11.12-02.04.51:196][435]LogPlayLevel: PIE: World Init took: (0.000612s)
+[2019.11.12-02.04.51:196][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_00.Level_00 to /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 (0.005655s)
+[2019.11.12-02.04.51:246][435]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2019.11.12-02.04.51:249][435]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.12-02.04.51:276][435]LogInit: FAudioDevice initialized.
+[2019.11.12-02.04.51:281][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-02.04.51:315][435]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.11.12-02.04.51:316][435]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2019.11.11-20.04.51
+[2019.11.12-02.04.51:316][435]LogWorld: Bringing up level for play took: 0.000792
+[2019.11.12-02.04.51:330][435]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Level_00 0.604
+[2019.11.12-02.04.51:331][435]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.04.55:879][597]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.04.55:880][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-02.04.55:899][597]LogSlate: Window 'MoonMan_Prototype Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.12-02.04.55:992][597]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-02.04.55:992][597]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.04.56:041][597]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2019.11.12-02.04.56:051][598]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.11.12-02.05.06:054][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-02.05.37:453][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-02.05.37:567][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/BP_Test" FILE="../../../../../Users/W211641607/Desktop/MM/Content/Demo/Blueprint/BP_Test.uasset" SILENT=true
+[2019.11.12-02.05.37:597][458]LogSavePackage: Moving '../../../../../Users/W211641607/Desktop/MM/Saved/BP_Test951986474FC5884F1A3F37B7EF7B9872.tmp' to '../../../../../Users/W211641607/Desktop/MM/Content/Demo/Blueprint/BP_Test.uasset'
+[2019.11.12-02.05.38:759][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-02.05.38:803][511]BlueprintLog: New page: Compile BP_Test
+[2019.11.12-02.05.39:041][511]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.11.12-02.05.40:234][564]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.12-02.05.40:248][564]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.05.40:248][564]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-02.05.40:248][564]PIE: New page: PIE session: Level_00 (Nov 11, 2019, 2:05:40 PM)
+[2019.11.12-02.05.40:248][564]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_00
+[2019.11.12-02.05.40:253][564]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005180s)
+[2019.11.12-02.05.40:254][564]LogAIModule: Creating AISystem for world Level_00
+[2019.11.12-02.05.40:254][564]LogPlayLevel: PIE: World Init took: (0.000507s)
+[2019.11.12-02.05.40:254][564]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_00.Level_00 to /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 (0.005801s)
+[2019.11.12-02.05.40:303][564]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.11.12-02.05.40:306][564]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.12-02.05.40:331][564]LogInit: FAudioDevice initialized.
+[2019.11.12-02.05.40:336][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-02.05.40:366][564]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.11.12-02.05.40:367][564]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2019.11.11-20.05.40
+[2019.11.12-02.05.40:367][564]LogWorld: Bringing up level for play took: 0.000695
+[2019.11.12-02.05.40:381][564]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Level_00 -0.346
+[2019.11.12-02.05.40:381][564]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.05.59:633][264]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.05.59:634][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-02.05.59:658][264]LogSlate: Window 'MoonMan_Prototype Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.12-02.05.59:713][264]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-02.05.59:713][264]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.05.59:769][264]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2019.11.12-02.05.59:780][265]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.11.12-02.06.02:686][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-02.06.02:798][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/BP_Test" FILE="../../../../../Users/W211641607/Desktop/MM/Content/Demo/Blueprint/BP_Test.uasset" SILENT=true
+[2019.11.12-02.06.02:824][383]LogSavePackage: Moving '../../../../../Users/W211641607/Desktop/MM/Saved/BP_TestECC4E1CC4E7EA8AD5102F5A1076BCE14.tmp' to '../../../../../Users/W211641607/Desktop/MM/Content/Demo/Blueprint/BP_Test.uasset'
+[2019.11.12-02.06.03:535][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-02.06.06:090][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.11.12-02.06.06:102][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_00" FILE="../../../../../Users/W211641607/Desktop/MM/Content/Demo/Maps/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.12-02.06.06:142][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.11.12-02.06.06:401][693]LogSavePackage: Moving '../../../../../Users/W211641607/Desktop/MM/Saved/Level_00D81DF528493D9C458882EFB667558A94.tmp' to '../../../../../Users/W211641607/Desktop/MM/Content/Demo/Maps/Level_00.umap'
+[2019.11.12-02.06.06:432][693]LogFileHelpers: Saving map 'Level_00' took 0.329
+[2019.11.12-02.06.10:331][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_00" FILE="../../../../../Users/W211641607/Desktop/MM/Content/Demo/Maps/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.12-02.06.10:376][141]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2019.11.12-02.06.10:597][141]LogSavePackage: Moving '../../../../../Users/W211641607/Desktop/MM/Saved/Level_00B9B93E2F42D334FD4DC7898B7506D229.tmp' to '../../../../../Users/W211641607/Desktop/MM/Content/Demo/Maps/Level_00.umap'
+[2019.11.12-02.06.10:625][141]LogFileHelpers: Saving map 'Level_00' took 0.294
+[2019.11.12-02.06.13:062][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/BP_Test" FILE="../../../../../Users/W211641607/Desktop/MM/Content/Demo/Blueprint/BP_Test.uasset" SILENT=true
+[2019.11.12-02.06.13:089][300]LogSavePackage: Moving '../../../../../Users/W211641607/Desktop/MM/Saved/BP_Test3AD28FAB4AAEA2793231A3A84C0CEAFA.tmp' to '../../../../../Users/W211641607/Desktop/MM/Content/Demo/Blueprint/BP_Test.uasset'
+[2019.11.12-02.06.28:270][ 81]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.12-02.06.28:283][ 81]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.06.28:284][ 81]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-02.06.28:284][ 81]PIE: New page: PIE session: Level_00 (Nov 11, 2019, 2:06:28 PM)
+[2019.11.12-02.06.28:284][ 81]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_00
+[2019.11.12-02.06.28:289][ 81]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005417s)
+[2019.11.12-02.06.28:290][ 81]LogAIModule: Creating AISystem for world Level_00
+[2019.11.12-02.06.28:290][ 81]LogPlayLevel: PIE: World Init took: (0.000581s)
+[2019.11.12-02.06.28:290][ 81]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_00.Level_00 to /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 (0.006118s)
+[2019.11.12-02.06.28:411][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2019.11.12-02.06.28:413][ 81]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.12-02.06.28:441][ 81]LogInit: FAudioDevice initialized.
+[2019.11.12-02.06.28:476][ 81]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.11.12-02.06.28:477][ 81]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2019.11.11-20.06.28
+[2019.11.12-02.06.28:478][ 81]LogWorld: Bringing up level for play took: 0.000808
+[2019.11.12-02.06.28:492][ 81]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Level_00 -0.236
+[2019.11.12-02.06.28:493][ 81]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.06.40:839][606]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.06.40:839][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-02.06.40:889][606]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-02.06.40:889][606]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.11.12-02.06.40:957][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-02.06.40:998][606]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2019.11.12-02.06.41:035][607]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.11.12-02.06.51:031][593]LogSlate: FSceneViewport::OnFocusLost() reason 2
